@@ -1,5 +1,5 @@
 {
-  "packName": "loca loca",
+  "packName": "MYTHERIS",
   "minecraftVersion": "1.21.1",
   "modLoader": "NeoForge 21.1.265",
   "lastExport": "2026-11-11",
@@ -120,7 +120,18 @@
       "fileDate": "2026-07-19T02:25:07.413Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "engine",
+      "desc": "Nowoczesny silnik renderujący chunks w OpenGL drastycznie podnoszący FPS i płynność grafiki.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/1253/722/256/256/638817503210307664.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/chloride",
+        "modrinth": "https://modrinth.com/mods?q=chloride"
+      },
+      "isCommunity": false
     },
     {
       "id": 1611566,
@@ -143,7 +154,18 @@
       "fileDate": "2026-10-28T07:21:29.143Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "world",
+      "desc": "Kilkadziesiąt niesamowitych, animowanych zwierząt i stworzeń (niedźwiedzie grizzly, wieloryby, mrówki, komary, słonie).",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/1921/916/256/256/639197355359345805.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/amt",
+        "modrinth": "https://modrinth.com/mods?q=amt"
+      },
+      "isCommunity": false
     },
     {
       "id": 844662,
@@ -166,7 +188,18 @@
       "fileDate": "2026-10-15T07:13:05.607Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "survival",
+      "desc": "Modyfikacja '[EMF] Entity Model Features [Fabric & Forge]' wzbogacająca rozgrywkę na serwerze.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/983/284/256/256/638491564386011875.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/entity-model-features",
+        "modrinth": "https://modrinth.com/mods?q=entity+model+features"
+      },
+      "isCommunity": false
     },
     {
       "id": 568563,
@@ -192,7 +225,18 @@
       "fileDate": "2026-11-03T10:30:13.453Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "visuals",
+      "desc": "Paczka shaderów oferująca ulepszone oświetlenie, cienie, realistyczną wodę i efekty klimatyczne.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/983/279/256/256/638491557830728907.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric",
+        "modrinth": "https://modrinth.com/mods?q=entity+texture+features"
+      },
+      "isCommunity": false
     },
     {
       "id": 704465,
@@ -217,7 +261,18 @@
       "fileDate": "2026-10-16T05:09:07.09Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "survival",
+      "desc": "Modyfikacja kulinarno-rolnicza wprowadzająca nowe przepisy, uprawy lub potrawy z bonusami.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/1681/782/256/256/639068578276109661.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/lets-do-vinery",
+        "modrinth": "https://modrinth.com/mods?q=vinery"
+      },
+      "isCommunity": false
     },
     {
       "id": 1397967,
@@ -240,7 +295,18 @@
       "fileDate": "2026-10-02T13:49:20.97Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "engine",
+      "desc": "Niezbędna biblioteka systemowa / API wymagana do stabilnego działania modów w paczce.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/1675/114/256/256/639065170693747024.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/quantified-api",
+        "modrinth": "https://modrinth.com/mods?q=quantified"
+      },
+      "isCommunity": false
     },
     {
       "id": 1270418,
@@ -265,7 +331,18 @@
       "fileDate": "2026-08-01T19:30:57.487Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "combat",
+      "desc": "Pojazdy wojskowe i sprzęt militarny współgrający z systemem uzbrojenia Superb Warfare.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/1306/261/256/256/638849344623404603.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/mcsp-military-vehicle",
+        "modrinth": "https://modrinth.com/mods?q=mcsp"
+      },
+      "isCommunity": false
     },
     {
       "id": 1218165,
@@ -290,7 +367,18 @@
       "fileDate": "2026-11-06T08:33:19.717Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "combat",
+      "desc": "Militarne pojazdy bojowe, czołgi, śmigłowce i zaawansowane uzbrojenie na pole walki.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/1197/63/256/256/638773045427360095.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/superb-warfare",
+        "modrinth": "https://modrinth.com/mods?q=superbwarfare"
+      },
+      "isCommunity": false
     },
     {
       "id": 1346094,
@@ -313,7 +401,18 @@
       "fileDate": "2026-10-16T15:47:38.193Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "survival",
+      "desc": "Modyfikacja '[SBW]DragonRise:Reforge' wzbogacająca rozgrywkę na serwerze.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/1746/42/256/256/639110990619528596.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/sbw-drr",
+        "modrinth": "https://modrinth.com/mods?q=dragonrise+reforge"
+      },
+      "isCommunity": false
     },
     {
       "id": 1254350,
@@ -338,7 +437,18 @@
       "fileDate": "2026-10-31T07:40:46.48Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "combat",
+      "desc": "Pakiet militarnego arsenału i nowoczesnych giwer dla Timeless and Classics Zero.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/1278/361/256/256/638831514171424824.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/tacz-addons-daffas-arsenal",
+        "modrinth": "https://modrinth.com/mods?q=daffasarsenal"
+      },
+      "isCommunity": false
     },
     {
       "id": 1552880,
@@ -363,7 +473,18 @@
       "fileDate": "2026-10-17T20:56:04.32Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "combat",
+      "desc": "Mechaniki taktycznego wyważania drzwi, ładunków wybuchowych i dynamicznego wchodzenia do budynków.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/1825/193/256/256/639152533052183754.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/tacz-tactical-breaching",
+        "modrinth": "https://modrinth.com/mods?q=tacz+tactical+breaching"
+      },
+      "isCommunity": false
     },
     {
       "id": 1028108,
@@ -388,7 +509,18 @@
       "fileDate": "2026-11-05T14:41:48.44Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "combat",
+      "desc": "Flagowy mod na realistyczną broń palną (pistolety, karabiny, snajperki, strzelby) z dopracowanymi animacjami, dźwiękami i modyfikacjami.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/1005/666/256/256/638527114344804635.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/timeless-and-classics-zero",
+        "modrinth": "https://modrinth.com/mods?q=tacz"
+      },
+      "isCommunity": false
     },
     {
       "id": 1432620,
@@ -413,7 +545,18 @@
       "fileDate": "2026-08-27T09:00:35.493Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "combat",
+      "desc": "Wyposażenie taktyczne: nowoczesne kamizelki kuloodporne, hełmy i profesjonalny sprzęt bojowy.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/1619/741/256/256/639042483699038535.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/lr-tactical-1-21-1",
+        "modrinth": "https://modrinth.com/mods?q=lrtactical"
+      },
+      "isCommunity": false
     },
     {
       "id": 635042,
@@ -438,7 +581,18 @@
       "fileDate": "2026-09-13T20:00:49.383Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "space",
+      "desc": "Eksploracja kosmosu: budowa rakiet, kombinezony tlenowe, bazy na Księżycu, Marsie, Wenus, Merkurym i w pasie asteroid.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/641/352/256/256/638043417933656861.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/ad-astra",
+        "modrinth": "https://modrinth.com/mods?q=ad+astra"
+      },
+      "isCommunity": false
     },
     {
       "id": 1682474,
@@ -463,7 +617,18 @@
       "fileDate": "2026-09-18T10:12:38.213Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "space",
+      "desc": "Eksploracja kosmosu: budowa rakiet, kombinezony tlenowe, bazy na Księżycu, Marsie, Wenus, Merkurym i w pasie asteroid.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/2027/998/256/256/639241813888242896.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/ad-astra-orbit",
+        "modrinth": "https://modrinth.com/mods?q=pv+astra+orbit"
+      },
+      "isCommunity": false
     },
     {
       "id": 1164846,
@@ -488,7 +653,18 @@
       "fileDate": "2025-02-19T19:42:36.2Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "space",
+      "desc": "Eksploracja kosmosu: budowa rakiet, kombinezony tlenowe, bazy na Księżycu, Marsie, Wenus, Merkurym i w pasie asteroid.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/1393/658/256/256/638903556178885062.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/perspatium",
+        "modrinth": "https://modrinth.com/mods?q=perspatium"
+      },
+      "isCommunity": false
     },
     {
       "id": 1765411,
@@ -513,7 +689,18 @@
       "fileDate": "2026-10-25T15:56:10.257Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "space",
+      "desc": "Eksploracja kosmosu: budowa rakiet, kombinezony tlenowe, bazy na Księżycu, Marsie, Wenus, Merkurym i w pasie asteroid.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/2147/997/256/256/639285367765212061.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/ad-astra-planets",
+        "modrinth": "https://modrinth.com/mods?q=adastraplanets"
+      },
+      "isCommunity": false
     },
     {
       "id": 495336,
@@ -536,7 +723,18 @@
       "fileDate": "2025-09-27T16:54:40.263Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "survival",
+      "desc": "Kolejne poziomy netherytu łączone ze złotem, żelazem, diamentem i szmaragdem, dające unikalne pasywki.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/829/294/256/256/638217598154517104_animated.gif",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/advanced-netherite",
+        "modrinth": "https://modrinth.com/mods?q=advancednetherite"
+      },
+      "isCommunity": false
     },
     {
       "id": 233019,
@@ -561,7 +759,18 @@
       "fileDate": "2024-06-14T06:55:01.61Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "engine",
+      "desc": "Optymalizacja silnika gry zwiększająca płynność, stabilizująca klatki i redukująca zużycie pamięci RAM.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/21/699/256/256/635731173265581096.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/ai-improvements",
+        "modrinth": "https://modrinth.com/mods?q=aiimprovements"
+      },
+      "isCommunity": false
     },
     {
       "id": 556448,
@@ -586,7 +795,18 @@
       "fileDate": "2026-02-12T04:23:17.193Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "survival",
+      "desc": "Kulinarne przepisy Farmer's Delight wykorzystujące mięso i składniki ze zwierząt z Alex's Mobs.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/467/198/256/256/637748653028908201.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/alexs-delight",
+        "modrinth": "https://modrinth.com/mods?q=alexsdelight"
+      },
+      "isCommunity": false
     },
     {
       "id": 1415721,
@@ -609,7 +829,18 @@
       "fileDate": "2026-01-26T01:53:08.14Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "world",
+      "desc": "Kilkadziesiąt niesamowitych, animowanych zwierząt i stworzeń (niedźwiedzie grizzly, wieloryby, mrówki, komary, słonie).",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/1585/200/256/256/639025960348424862.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/alexs-mobs-1-21-1-port",
+        "modrinth": "https://modrinth.com/mods?q=alexsmobs"
+      },
+      "isCommunity": false
     },
     {
       "id": 1091339,
@@ -634,7 +865,18 @@
       "fileDate": "2026-11-07T19:18:36.62Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "engine",
+      "desc": "Automatyczne wykrywanie i eliminowanie wycieków pamięci RAM podczas długich sesji gry.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/1068/365/256/256/638602852129913496.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/alltheleaks",
+        "modrinth": "https://modrinth.com/mods?q=alltheleaks"
+      },
+      "isCommunity": false
     },
     {
       "id": 313970,
@@ -659,7 +901,18 @@
       "fileDate": "2026-09-27T20:12:04.903Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "horror",
+      "desc": "Głęboki mod RPG rozbudowujący system zaklinania, dodający unikalnych bossów, afiksy na przedmiotach i potężne relikwie.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/806/643/256/256/638174667713250064.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/apotheosis",
+        "modrinth": "https://modrinth.com/mods?q=apotheosis"
+      },
+      "isCommunity": false
     },
     {
       "id": 966582,
@@ -684,7 +937,18 @@
       "fileDate": "2026-11-07T14:35:31.463Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "horror",
+      "desc": "Głęboki mod RPG rozbudowujący system zaklinania, dodający unikalnych bossów, afiksy na przedmiotach i potężne relikwie.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/938/556/256/256/638417809514186755.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/apotheosis-modern-ragnarok",
+        "modrinth": "https://modrinth.com/mods?q=apotheosis+modern+ragnarok"
+      },
+      "isCommunity": false
     },
     {
       "id": 898963,
@@ -709,7 +973,18 @@
       "fileDate": "2026-09-29T04:49:29.267Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "horror",
+      "desc": "Silnik atrybutów RPG do Apotheosis (obrażenia krytyczne, przebicie pancerza, kradzież życia).",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/860/918/256/256/638267924628338335.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/apothic-attributes",
+        "modrinth": "https://modrinth.com/mods?q=apothic+attributes"
+      },
+      "isCommunity": false
     },
     {
       "id": 1214893,
@@ -734,7 +1009,18 @@
       "fileDate": "2025-03-19T02:39:07.73Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "horror",
+      "desc": "Integracja Apotheosis z bosami i ekwipunkiem z L_Ender's Cataclysm.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/1193/733/256/256/638769158752923115.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/apothic-cataclysm",
+        "modrinth": "https://modrinth.com/mods?q=apothic+cataclysm"
+      },
+      "isCommunity": false
     },
     {
       "id": 1063926,
@@ -759,7 +1045,18 @@
       "fileDate": "2026-10-08T04:28:29.19Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "horror",
+      "desc": "Umożliwia podnoszenie poziomów zaklinania daleko poza limit vanilla (do 100+ lvl) z nowymi bibliotekami.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/1040/72/256/256/638565844830525735.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/apothic-enchanting",
+        "modrinth": "https://modrinth.com/mods?q=apothic+enchanting"
+      },
+      "isCommunity": false
     },
     {
       "id": 986583,
@@ -784,7 +1081,18 @@
       "fileDate": "2026-07-20T04:34:45.187Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "horror",
+      "desc": "Modyfikowalne spawnery potworów za pomocą jaj, cukru, netherowych gwiazd i zegarów.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/962/279/256/256/638459142671369858.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/apothic-spawners",
+        "modrinth": "https://modrinth.com/mods?q=apothic+spawners"
+      },
+      "isCommunity": false
     },
     {
       "id": 248787,
@@ -809,7 +1117,18 @@
       "fileDate": "2026-04-01T04:44:43.28Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "survival",
+      "desc": "Niezbędny wskaźnik pokazujący dokładne nasycenie jedzenia i ile głodu przywróci dany posiłek.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/47/527/256/256/636066936394500688.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/appleskin",
+        "modrinth": "https://modrinth.com/mods?q=appleskin"
+      },
+      "isCommunity": false
     },
     {
       "id": 60028,
@@ -834,7 +1153,18 @@
       "fileDate": "2026-11-03T19:52:46.367Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "survival",
+      "desc": "Rozbudowane rybołówstwo: ponad 30 nowych gatunków ryb, wędki z kołowrotkami, przynęty i filety.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/230/320/256/256/637059909042064016.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/aquaculture",
+        "modrinth": "https://modrinth.com/mods?q=aquaculture"
+      },
+      "isCommunity": false
     },
     {
       "id": 961988,
@@ -859,7 +1189,18 @@
       "fileDate": "2025-02-10T20:56:21.787Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "survival",
+      "desc": "Wspaniały mod kulinarny: gotowanie w garnku, krojenie na desce, patelnia, noże kuchenne i dziesiątki potraw z bonusami.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/1174/296/256/256/638746321131868816.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/aquaculture-delight",
+        "modrinth": "https://modrinth.com/mods?q=aquaculturedelight"
+      },
+      "isCommunity": false
     },
     {
       "id": 419699,
@@ -882,7 +1223,18 @@
       "fileDate": "2026-07-23T09:57:32.017Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "engine",
+      "desc": "Niezbędna biblioteka systemowa / API wymagana do stabilnego działania modów w paczce.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/313/420/256/256/637408811378175814.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/architectury-api",
+        "modrinth": "https://modrinth.com/mods?q=architectury"
+      },
+      "isCommunity": false
     },
     {
       "id": 401955,
@@ -907,7 +1259,18 @@
       "fileDate": "2026-11-09T03:42:55.963Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "horror",
+      "desc": "Magia oparta na tworzeniu własnych zaklęć z run, automatyzacja za pomocą chowańców (Wixie) i magiczne rytuały.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/565/915/256/256/637924211543296813.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/ars-nouveau",
+        "modrinth": "https://modrinth.com/mods?q=ars+nouveau"
+      },
+      "isCommunity": false
     },
     {
       "id": 312353,
@@ -932,7 +1295,18 @@
       "fileDate": "2026-09-02T11:15:26.817Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "horror",
+      "desc": "Rzadkie, potężne akcesoria (balon do skakania, rękawice wspinaczkowe, flaszka z mrokiem) znajdowane w skrzyniach.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/444/622/256/256/637699815276651872.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/artifacts",
+        "modrinth": "https://modrinth.com/mods?q=artifacts"
+      },
+      "isCommunity": false
     },
     {
       "id": 1321370,
@@ -957,7 +1331,18 @@
       "fileDate": "2026-09-06T09:41:45.627Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "survival",
+      "desc": "Poprawki silnika audio usuwające trzaski i limity równoczesnych dźwięków.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/1390/993/256/256/638901838654821161.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/audio-improvements",
+        "modrinth": "https://modrinth.com/mods?q=audio+improvements"
+      },
+      "isCommunity": false
     },
     {
       "id": 531761,
@@ -980,7 +1365,18 @@
       "fileDate": "2026-11-02T12:15:53.04Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "survival",
+      "desc": "Modyfikacja 'Balm' wzbogacająca rozgrywkę na serwerze.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/1107/117/256/256/638657111836546584.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/balm",
+        "modrinth": "https://modrinth.com/mods?q=balm"
+      },
+      "isCommunity": false
     },
     {
       "id": 1083202,
@@ -1003,7 +1399,18 @@
       "fileDate": "2025-11-27T15:37:40.103Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "survival",
+      "desc": "Modyfikacja 'Beautiful Enchanted Books [MOD EDITION] | 6.0 UPDATE!' wzbogacająca rozgrywkę na serwerze.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/1059/990/256/256/638591533953639737.webp",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/beautiful-enchanted-books",
+        "modrinth": "https://modrinth.com/mods?q=beb"
+      },
+      "isCommunity": false
     },
     {
       "id": 895618,
@@ -1026,7 +1433,18 @@
       "fileDate": "2026-04-24T18:07:18.05Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "survival",
+      "desc": "Modyfikacja 'Better Days' wzbogacająca rozgrywkę na serwerze.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/856/926/256/256/638260913825133151.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/betterdays",
+        "modrinth": "https://modrinth.com/mods?q=betterdays"
+      },
+      "isCommunity": false
     },
     {
       "id": 220318,
@@ -1049,7 +1467,18 @@
       "fileDate": "2026-06-20T17:56:37.203Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "world",
+      "desc": "Ponad 50 nowych zróżnicowanych biomów w Overworldzie i Netherze, drzewa, kwiaty i klimatyczny krajobraz.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/477/194/256/256/637771671789296797.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty",
+        "modrinth": "https://modrinth.com/mods?q=biomesoplenty"
+      },
+      "isCommunity": false
     },
     {
       "id": 610844,
@@ -1075,7 +1504,18 @@
       "fileDate": "2025-11-23T03:18:43.91Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "visuals",
+      "desc": "Klimatyczny shader z miękkim oświetleniem, fotorealistyczną mgłą i dynamiczną pogodą.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/848/186/256/256/638248048963999686.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/shaders/bliss-shader",
+        "modrinth": "https://modrinth.com/mods?q=bliss+shaders"
+      },
+      "isCommunity": false
     },
     {
       "id": 1093481,
@@ -1101,7 +1541,18 @@
       "fileDate": "2026-10-28T13:05:58.137Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "visuals",
+      "desc": "Efekt kamery nasobnej typu bodycam z charakterystyczną dystorsją rybiego oka i winietą.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/1070/614/256/256/638606037067560255.jpeg",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/shaders/body-camera-shader",
+        "modrinth": "https://modrinth.com/mods?q=body+camera+shader"
+      },
+      "isCommunity": false
     },
     {
       "id": 228525,
@@ -1124,7 +1575,18 @@
       "fileDate": "2026-02-10T22:44:17.77Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "engine",
+      "desc": "Niezbędna biblioteka systemowa / API wymagana do stabilnego działania modów w paczce.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/981/432/256/256/638488256947873195.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/bookshelf",
+        "modrinth": "https://modrinth.com/mods?q=bookshelf"
+      },
+      "isCommunity": false
     },
     {
       "id": 686437,
@@ -1149,7 +1611,18 @@
       "fileDate": "2026-06-17T18:49:54.887Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "horror",
+      "desc": "Mroczne stwory nocy, kościane monstra, potwory z bagien i mroczne rytuały podnoszące poziom trudności.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/778/486/256/256/638122554849559119.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/born-in-chaos",
+        "modrinth": "https://modrinth.com/mods?q=born+in+chaos+v1"
+      },
+      "isCommunity": false
     },
     {
       "id": 353928,
@@ -1174,7 +1647,18 @@
       "fileDate": "2026-06-13T19:59:10.06Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "survival",
+      "desc": "Donice bonsai do kompaktowej, automatycznej uprawy roślin, zbóż i drzewek w jednym bloku.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/239/289/256/256/637113058354530819.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/botany-pots",
+        "modrinth": "https://modrinth.com/mods?q=botanypots"
+      },
+      "isCommunity": false
     },
     {
       "id": 322506,
@@ -1200,7 +1684,18 @@
       "fileDate": "2026-02-07T13:00:54.213Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "visuals",
+      "desc": "Jeden z najpopularniejszych shaderów: żywe kolory, piękne chmury, falująca woda i doskonała optymalizacja.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/1130/670/256/256/638689862356749182.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/shaders/bsl-shaders",
+        "modrinth": "https://modrinth.com/mods?q=bsl+shaders"
+      },
+      "isCommunity": false
     },
     {
       "id": 973620,
@@ -1223,7 +1718,18 @@
       "fileDate": "2026-10-09T21:00:46.027Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "survival",
+      "desc": "Modyfikacja 'Butchery' wzbogacająca rozgrywkę na serwerze.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/1149/680/256/256/638716979916498132.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/butchery",
+        "modrinth": "https://modrinth.com/mods?q=butchery"
+      },
+      "isCommunity": false
     },
     {
       "id": 308989,
@@ -1246,7 +1752,18 @@
       "fileDate": "2024-09-05T07:16:43.987Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "engine",
+      "desc": "Niezbędna biblioteka systemowa / API wymagana do stabilnego działania modów w paczce.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/181/894/256/256/636803819154686484.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/caelus",
+        "modrinth": "https://modrinth.com/mods?q=caelus"
+      },
+      "isCommunity": false
     },
     {
       "id": 407206,
@@ -1271,7 +1788,18 @@
       "fileDate": "2026-08-13T19:08:47.59Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "survival",
+      "desc": "Wyświetla główki graczy obok ich wiadomości na czacie.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/299/225/256/256/637352537610256484.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/chat-heads",
+        "modrinth": "https://modrinth.com/mods?q=chat+heads"
+      },
+      "isCommunity": false
     },
     {
       "id": 832983,
@@ -1296,7 +1824,18 @@
       "fileDate": "2026-10-03T04:40:53.613Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "survival",
+      "desc": "Wspaniały mod kulinarny: gotowanie w garnku, krojenie na desce, patelnia, noże kuchenne i dziesiątki potraw z bonusami.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/784/308/256/256/638133050057336713.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/chefs-delight-forge",
+        "modrinth": "https://modrinth.com/mods?q=chefsdelight"
+      },
+      "isCommunity": false
     },
     {
       "id": 331936,
@@ -1319,7 +1858,18 @@
       "fileDate": "2026-07-18T16:10:10.947Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "survival",
+      "desc": "Modyfikacja 'Citadel' wzbogacająca rozgrywkę na serwerze.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/214/988/256/256/636995179309161946.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/citadel",
+        "modrinth": "https://modrinth.com/mods?q=citadel"
+      },
+      "isCommunity": false
     },
     {
       "id": 1415723,
@@ -1342,7 +1892,18 @@
       "fileDate": "2026-04-25T11:58:32.843Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "survival",
+      "desc": "Modyfikacja 'Citadel (Unofficial Port)' wzbogacająca rozgrywkę na serwerze.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/1585/203/256/256/639025963417433066.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/citadel-1-21-1-port",
+        "modrinth": "https://modrinth.com/mods?q=citadel"
+      },
+      "isCommunity": false
     },
     {
       "id": 348521,
@@ -1365,7 +1926,18 @@
       "fileDate": "2024-09-16T17:18:01.157Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "engine",
+      "desc": "Niezbędna biblioteka systemowa / API wymagana do stabilnego działania modów w paczce.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/282/467/256/256/637289313020452406.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/cloth-config",
+        "modrinth": "https://modrinth.com/mods?q=cloth+config"
+      },
+      "isCommunity": false
     },
     {
       "id": 256717,
@@ -1388,7 +1960,18 @@
       "fileDate": "2024-08-13T07:49:09.587Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "survival",
+      "desc": "Modyfikacja 'Clumps' wzbogacająca rozgrywkę na serwerze.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/1289/817/256/256/638838549850518521_animated.gif",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/clumps",
+        "modrinth": "https://modrinth.com/mods?q=clumps"
+      },
+      "isCommunity": false
     },
     {
       "id": 342584,
@@ -1411,7 +1994,18 @@
       "fileDate": "2026-11-10T21:22:36.927Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "engine",
+      "desc": "Niezbędna biblioteka systemowa / API wymagana do stabilnego działania modów w paczce.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/975/602/256/256/638479075930399380.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/collective",
+        "modrinth": "https://modrinth.com/mods?q=collective"
+      },
+      "isCommunity": false
     },
     {
       "id": 276951,
@@ -1436,7 +2030,18 @@
       "fileDate": "2026-01-24T04:53:25.22Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "survival",
+      "desc": "Narzędzie ułatwiające rozgrywkę, nawigację, dostosowywanie sterowania lub komunikację.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/203/105/256/256/636930549407382137.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/comforts",
+        "modrinth": "https://modrinth.com/mods?q=comforts"
+      },
+      "isCommunity": false
     },
     {
       "id": 1028211,
@@ -1461,7 +2066,18 @@
       "fileDate": "2026-07-12T22:02:35.04Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "survival",
+      "desc": "Praktyczne rozwiązania do przechowywania, sortowania i transportu przedmiotów.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/1016/905/256/256/638543003430417571.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/common-storage-lib",
+        "modrinth": "https://modrinth.com/mods?q=common+storage+lib"
+      },
+      "isCommunity": false
     },
     {
       "id": 913445,
@@ -1484,7 +2100,18 @@
       "fileDate": "2024-08-11T15:23:37.413Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "engine",
+      "desc": "Niezbędna biblioteka systemowa / API wymagana do stabilnego działania modów w paczce.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/877/958/256/256/638304095415290270.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/connector-extras",
+        "modrinth": "https://modrinth.com/mods?q=connectorextras"
+      },
+      "isCommunity": false
     },
     {
       "id": 531351,
@@ -1507,7 +2134,18 @@
       "fileDate": "2024-12-10T23:45:59.353Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "survival",
+      "desc": "Modyfikacja 'Continuity' wzbogacająca rozgrywkę na serwerze.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/437/816/256/256/637682110255957193.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/continuity",
+        "modrinth": "https://modrinth.com/mods?q=continuity"
+      },
+      "isCommunity": false
     },
     {
       "id": 250398,
@@ -1532,7 +2170,18 @@
       "fileDate": "2025-03-30T23:44:28.983Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "survival",
+      "desc": "Wyszukiwarka i porządkowanie konfliktów klawiszy w menu sterowania.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/49/603/256/256/636079972364045115.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/controlling",
+        "modrinth": "https://modrinth.com/mods?q=controlling"
+      },
+      "isCommunity": false
     },
     {
       "id": 1154099,
@@ -1555,7 +2204,18 @@
       "fileDate": "2026-08-13T00:59:15.24Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "survival",
+      "desc": "Modyfikacja 'Crash Assistant' wzbogacająca rozgrywkę na serwerze.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/1482/227/256/256/638963404721998907.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/crash-assistant",
+        "modrinth": "https://modrinth.com/mods?q=crash+assistant"
+      },
+      "isCommunity": false
     },
     {
       "id": 328085,
@@ -1580,7 +2240,18 @@
       "fileDate": "2026-04-21T22:20:00.503Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "tech",
+      "desc": "Kluczowy mod technologiczny: koła zębate, pasy transmisyjne, silniki parowe, pociągi, wiatraki i niesamowita kinetyczna automatyzacja.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/1065/184/256/256/638598725500886388.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/create",
+        "modrinth": "https://modrinth.com/mods?q=create"
+      },
+      "isCommunity": false
     },
     {
       "id": 646668,
@@ -1605,7 +2276,18 @@
       "fileDate": "2026-06-22T22:16:26.087Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "tech",
+      "desc": "Kluczowy mod technologiczny: koła zębate, pasy transmisyjne, silniki parowe, pociągi, wiatraki i niesamowita kinetyczna automatyzacja.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/1072/200/256/256/638608031487115551.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/create-big-cannons",
+        "modrinth": "https://modrinth.com/mods?q=createbigcannons"
+      },
+      "isCommunity": false
     },
     {
       "id": 1555276,
@@ -1630,7 +2312,18 @@
       "fileDate": "2026-06-05T19:46:38.3Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "tech",
+      "desc": "Kluczowy mod technologiczny: koła zębate, pasy transmisyjne, silniki parowe, pociągi, wiatraki i niesamowita kinetyczna automatyzacja.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/1829/334/256/256/639154559000470980.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/create-for-twinks-create-addon",
+        "modrinth": "https://modrinth.com/mods?q=create+for+twinks"
+      },
+      "isCommunity": false
     },
     {
       "id": 1516820,
@@ -1655,7 +2348,18 @@
       "fileDate": "2026-08-04T19:24:22.167Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "tech",
+      "desc": "Kluczowy mod technologiczny: koła zębate, pasy transmisyjne, silniki parowe, pociągi, wiatraki i niesamowita kinetyczna automatyzacja.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/1761/434/256/256/639120411516903602.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/create-reautomated",
+        "modrinth": "https://modrinth.com/mods?q=createreautomated"
+      },
+      "isCommunity": false
     },
     {
       "id": 1539353,
@@ -1680,7 +2384,18 @@
       "fileDate": "2026-07-02T17:11:10.213Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "tech",
+      "desc": "Kluczowy mod technologiczny: koła zębate, pasy transmisyjne, silniki parowe, pociągi, wiatraki i niesamowita kinetyczna automatyzacja.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/1900/704/256/256/639187681165961580.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/create-reautomated-traces",
+        "modrinth": "https://modrinth.com/mods?q=createreautomatedtraces"
+      },
+      "isCommunity": false
     },
     {
       "id": 1028420,
@@ -1705,7 +2420,18 @@
       "fileDate": "2026-08-16T20:51:02.81Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "tech",
+      "desc": "Kluczowy mod technologiczny: koła zębate, pasy transmisyjne, silniki parowe, pociągi, wiatraki i niesamowita kinetyczna automatyzacja.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/1065/599/256/256/638599296745975376.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/create-trainutilities",
+        "modrinth": "https://modrinth.com/mods?q=trainutilities"
+      },
+      "isCommunity": false
     },
     {
       "id": 1217628,
@@ -1730,7 +2456,18 @@
       "fileDate": "2025-03-10T18:29:20.063Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "tech",
+      "desc": "Kluczowy mod technologiczny: koła zębate, pasy transmisyjne, silniki parowe, pociągi, wiatraki i niesamowita kinetyczna automatyzacja.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/1196/494/256/256/638772280925196557.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/betther-create",
+        "modrinth": "https://modrinth.com/mods?q=better+create"
+      },
+      "isCommunity": false
     },
     {
       "id": 1351997,
@@ -1755,7 +2492,18 @@
       "fileDate": "2026-01-17T16:25:50.883Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "tech",
+      "desc": "Kluczowy mod technologiczny: koła zębate, pasy transmisyjne, silniki parowe, pociągi, wiatraki i niesamowita kinetyczna automatyzacja.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/1451/649/256/256/638941776563772660.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/create-o-plenty",
+        "modrinth": "https://modrinth.com/mods?q=createoplenty"
+      },
+      "isCommunity": false
     },
     {
       "id": 1678954,
@@ -1780,7 +2528,18 @@
       "fileDate": "2026-10-23T09:34:50.673Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "tech",
+      "desc": "Kluczowy mod technologiczny: koła zębate, pasy transmisyjne, silniki parowe, pociągi, wiatraki i niesamowita kinetyczna automatyzacja.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/2022/828/256/256/639239484856145105.webp",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/create-liberate",
+        "modrinth": "https://modrinth.com/mods?q=createliberate"
+      },
+      "isCommunity": false
     },
     {
       "id": 1152836,
@@ -1805,7 +2564,18 @@
       "fileDate": "2026-10-29T05:38:49.027Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "tech",
+      "desc": "Kluczowy mod technologiczny: koła zębate, pasy transmisyjne, silniki parowe, pociągi, wiatraki i niesamowita kinetyczna automatyzacja.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/1129/750/256/256/638688408354392580.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/create-radars",
+        "modrinth": "https://modrinth.com/mods?q=create+radar"
+      },
+      "isCommunity": false
     },
     {
       "id": 574913,
@@ -1828,7 +2598,18 @@
       "fileDate": "2026-08-14T12:47:26.887Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "world",
+      "desc": "Wzbogaca świat Minecrafta o nowe biomy, unikalne rośliny, zjawiska pogodowe lub istoty.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/728/545/256/256/638081057334527379.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/critters-and-companions",
+        "modrinth": "https://modrinth.com/mods?q=crittersandcompanions"
+      },
+      "isCommunity": false
     },
     {
       "id": 415438,
@@ -1853,7 +2634,18 @@
       "fileDate": "2026-04-21T01:32:48.17Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "survival",
+      "desc": "Kilkadziesiąt nowych owoców, warzyw, drzew owocowych, przypraw i przepisów na napoje oraz jedzenie.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/308/636/256/256/637392485303151332.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/croptopia",
+        "modrinth": "https://modrinth.com/mods?q=croptopia"
+      },
+      "isCommunity": false
     },
     {
       "id": 309927,
@@ -1876,7 +2668,18 @@
       "fileDate": "2025-05-14T13:34:49.793Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "engine",
+      "desc": "Niezbędna biblioteka systemowa / API wymagana do stabilnego działania modów w paczce.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/195/772/256/256/636881112930494939.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/curios",
+        "modrinth": "https://modrinth.com/mods?q=curios"
+      },
+      "isCommunity": false
     },
     {
       "id": 659011,
@@ -1899,7 +2702,18 @@
       "fileDate": "2026-06-05T17:53:49.813Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "world",
+      "desc": "Wymiar The Otherside dostępny przez portal w Ancient City, z nowym uzbrojeniem z Wardena i mrocznymi sekretami.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/1055/574/256/256/638586877714541407.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/deeperdarker",
+        "modrinth": "https://modrinth.com/mods?q=deeperdarker"
+      },
+      "isCommunity": false
     },
     {
       "id": 1120352,
@@ -1925,7 +2739,18 @@
       "fileDate": "2024-10-12T20:20:48.28Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "visuals",
+      "desc": "Paczka shaderów oferująca ulepszone oświetlenie, cienie, realistyczną wodę i efekty klimatyczne.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/1097/586/256/256/638643608961150078.jpg",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/shaders/derivative-shaders",
+        "modrinth": "https://modrinth.com/mods?q=derivative+shaders"
+      },
+      "isCommunity": false
     },
     {
       "id": 1790227,
@@ -1948,7 +2773,18 @@
       "fileDate": "2026-11-11T01:16:24.913Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "survival",
+      "desc": "Modyfikacja 'Diegesis' wzbogacająca rozgrywkę na serwerze.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/2187/805/256/256/639297712105641312.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/diegesis",
+        "modrinth": "https://modrinth.com/mods?q=diegesis"
+      },
+      "isCommunity": false
     },
     {
       "id": 1615335,
@@ -1974,7 +2810,18 @@
       "fileDate": "2026-07-18T14:32:33.14Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "visuals",
+      "desc": "Klimat grozy i opuszczenia z chłodną paletą barw i mrocznymi cieniami.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/1927/639/256/256/639199817931494095.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/shaders/dreadlight-horror-atmosphere-shader",
+        "modrinth": "https://modrinth.com/mods?q=dreadlight+++horror+atmosphere+shader"
+      },
+      "isCommunity": false
     },
     {
       "id": 1464751,
@@ -1999,7 +2846,18 @@
       "fileDate": "2026-09-05T07:26:35.94Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "space",
+      "desc": "Eksploracja kosmosu: budowa rakiet, kombinezony tlenowe, bazy na Księżycu, Marsie, Wenus, Merkurym i w pasie asteroid.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/2014/942/256/256/639236226882571910.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/dungeon-and-village-ad-astra",
+        "modrinth": "https://modrinth.com/mods?q=pv+dav+ad+astra+structures"
+      },
+      "isCommunity": false
     },
     {
       "id": 1747912,
@@ -2022,7 +2880,18 @@
       "fileDate": "2026-10-16T09:22:11.637Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "survival",
+      "desc": "Modyfikacja 'DVSNFlashlight' wzbogacająca rozgrywkę na serwerze.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/2122/881/256/256/639277392840605803.jpg",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/dvsnflashlight",
+        "modrinth": "https://modrinth.com/mods?q=dvsnflashlight"
+      },
+      "isCommunity": false
     },
     {
       "id": 400514,
@@ -2047,7 +2916,18 @@
       "fileDate": "2026-10-22T16:30:00.99Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "survival",
+      "desc": "Pozwala podnosić osadników do ekwipunku i umieszczać ich w kompaktowych blokach handlowych lub farmerskich.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/331/109/256/256/637459720655905996.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/easy-villagers",
+        "modrinth": "https://modrinth.com/mods?q=easy+villagers"
+      },
+      "isCommunity": false
     },
     {
       "id": 570463,
@@ -2070,7 +2950,18 @@
       "fileDate": "2026-11-05T00:17:29.503Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "world",
+      "desc": "Wzbogacenie biomów vanilla (pustynie, plaże, równiny) o wielbłądy, kraby, kokosy, orzechy i pingwiny.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/483/128/256/256/637782721029825410.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/ecologics",
+        "modrinth": "https://modrinth.com/mods?q=ecologics"
+      },
+      "isCommunity": false
     },
     {
       "id": 317716,
@@ -2093,7 +2984,18 @@
       "fileDate": "2024-10-03T02:55:48.22Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "survival",
+      "desc": "Modyfikacja 'Elytra Slot' wzbogacająca rozgrywkę na serwerze.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/209/40/256/256/636979175379460863.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/elytra-slot",
+        "modrinth": "https://modrinth.com/mods?q=elytraslot"
+      },
+      "isCommunity": false
     },
     {
       "id": 448233,
@@ -2118,7 +3020,18 @@
       "fileDate": "2026-10-08T16:51:59.167Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "engine",
+      "desc": "Ukrywa renderowanie encji i płytek znajdujących się za ścianami, redukując spadek FPS w bazach.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/345/318/256/256/637492631463701682.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/entityculling",
+        "modrinth": "https://modrinth.com/mods?q=entityculling"
+      },
+      "isCommunity": false
     },
     {
       "id": 885449,
@@ -2141,7 +3054,18 @@
       "fileDate": "2024-11-03T18:03:39.327Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "engine",
+      "desc": "Niezbędna biblioteka systemowa / API wymagana do stabilnego działania modów w paczce.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/858/479/256/256/638263668035212512.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/epherolib",
+        "modrinth": "https://modrinth.com/mods?q=epherolib"
+      },
+      "isCommunity": false
     },
     {
       "id": 509041,
@@ -2166,7 +3090,18 @@
       "fileDate": "2026-10-18T10:18:41.38Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "combat",
+      "desc": "Średniowieczne uzbrojenie: autentyczne zbroje płytowe, tarcze, lance, topory i oręż rycerski.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/1496/126/256/256/638971893710508476.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/epic-knights-armor-and-weapons",
+        "modrinth": "https://modrinth.com/mods?q=magistuarmory"
+      },
+      "isCommunity": false
     },
     {
       "id": 1036246,
@@ -2189,7 +3124,18 @@
       "fileDate": "2026-09-24T17:46:55.63Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "survival",
+      "desc": "Modyfikacja 'Explosive Enhancement: Reforged' wzbogacająca rozgrywkę na serwerze.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/1013/820/256/256/638538865181343780.webp",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/explosive-enhancement-reforged",
+        "modrinth": "https://modrinth.com/mods?q=explosiveenhancement"
+      },
+      "isCommunity": false
     },
     {
       "id": 398521,
@@ -2214,7 +3160,18 @@
       "fileDate": "2026-08-29T23:17:30.443Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "survival",
+      "desc": "Wspaniały mod kulinarny: gotowanie w garnku, krojenie na desce, patelnia, noże kuchenne i dziesiątki potraw z bonusami.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/396/11/256/256/637595005615179370.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/farmers-delight",
+        "modrinth": "https://modrinth.com/mods?q=farmersdelight"
+      },
+      "isCommunity": false
     },
     {
       "id": 628972,
@@ -2239,7 +3196,18 @@
       "fileDate": "2026-04-16T02:43:42.84Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "combat",
+      "desc": "Rozszerzenie uzbrojenia, pancerzy lub animacji walki podnoszące dynamikę starć.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/1368/151/256/256/638888340158170619.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/farmers-knives",
+        "modrinth": "https://modrinth.com/mods?q=farmersknives"
+      },
+      "isCommunity": false
     },
     {
       "id": 1744742,
@@ -2264,7 +3232,18 @@
       "fileDate": "2026-10-14T14:18:34.407Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "survival",
+      "desc": "Wspaniały mod kulinarny: gotowanie w garnku, krojenie na desce, patelnia, noże kuchenne i dziesiątki potraw z bonusami.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/2120/825/256/256/639276703620443479.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/farmers-o-plenty",
+        "modrinth": "https://modrinth.com/mods?q=farmersoplenty"
+      },
+      "isCommunity": false
     },
     {
       "id": 1527587,
@@ -2289,7 +3268,18 @@
       "fileDate": "2026-06-07T06:25:49.423Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "survival",
+      "desc": "Wspaniały mod kulinarny: gotowanie w garnku, krojenie na desce, patelnia, noże kuchenne i dziesiątki potraw z bonusami.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/1780/221/256/256/639129614945417589.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/farmers-sandwiches",
+        "modrinth": "https://modrinth.com/mods?q=farmers+sandwiches"
+      },
+      "isCommunity": false
     },
     {
       "id": 1088877,
@@ -2312,7 +3302,18 @@
       "fileDate": "2026-05-22T23:12:57.84Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "survival",
+      "desc": "Modyfikacja 'Farmers Structures' wzbogacająca rozgrywkę na serwerze.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/1838/260/256/256/639158703010984386.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/farmers-structures",
+        "modrinth": "https://modrinth.com/mods?q=farmers+structures"
+      },
+      "isCommunity": false
     },
     {
       "id": 475117,
@@ -2337,7 +3338,18 @@
       "fileDate": "2026-01-26T00:38:35Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "engine",
+      "desc": "Przyspieszenie działania i przetwarzania receptur rzemieślniczych.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/376/17/256/256/637551781740482627.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/fastsuite",
+        "modrinth": "https://modrinth.com/mods?q=fastsuite"
+      },
+      "isCommunity": false
     },
     {
       "id": 429235,
@@ -2362,7 +3374,18 @@
       "fileDate": "2026-01-25T12:59:44.447Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "engine",
+      "desc": "Drastyczne zmniejszenie zużycia pamięci RAM przez Minecrafta (oszczędza nawet do kilku gigabajtów).",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/323/941/256/256/637438748346113688.jpeg",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/ferritecore",
+        "modrinth": "https://modrinth.com/mods?q=ferritecore"
+      },
+      "isCommunity": false
     },
     {
       "id": 1142875,
@@ -2385,7 +3408,18 @@
       "fileDate": "2026-07-14T10:22:17.86Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "survival",
+      "desc": "Modyfikacja 'Flerovium' wzbogacająca rozgrywkę na serwerze.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/1119/897/256/256/638674488265049056.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/flerovium",
+        "modrinth": "https://modrinth.com/mods?q=flerovium"
+      },
+      "isCommunity": false
     },
     {
       "id": 1717758,
@@ -2408,7 +3442,18 @@
       "fileDate": "2026-11-02T01:03:37.527Z",
       "isEnabled": false,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "survival",
+      "desc": "Modyfikacja 'Fluid & Foolish' wzbogacająca rozgrywkę na serwerze.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/2079/220/256/256/639262857166989978.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/texture-packs/fluid-foolish",
+        "modrinth": "https://modrinth.com/mods?q=fluid+++foolish"
+      },
+      "isCommunity": false
     },
     {
       "id": 1512050,
@@ -2434,7 +3479,18 @@
       "fileDate": "2026-07-07T16:47:12.413Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "visuals",
+      "desc": "Efekt nagrania z odnalezionej taśmy (found footage) z anomaliami optycznymi i wstrząsami kamery.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/1763/44/256/256/639121253051630170.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/shaders/footageshader",
+        "modrinth": "https://modrinth.com/mods?q=footage"
+      },
+      "isCommunity": false
     },
     {
       "id": 889079,
@@ -2457,7 +3513,18 @@
       "fileDate": "2026-10-15T18:08:54.063Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "engine",
+      "desc": "Niezbędna biblioteka systemowa / API wymagana do stabilnego działania modów w paczce.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/1053/924/256/256/638584678951964920.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/forgified-fabric-api",
+        "modrinth": "https://modrinth.com/mods?q=fabric+api"
+      },
+      "isCommunity": false
     },
     {
       "id": 549225,
@@ -2480,7 +3547,18 @@
       "fileDate": "2026-01-26T14:04:19.483Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "engine",
+      "desc": "Niezbędna biblioteka systemowa / API wymagana do stabilnego działania modów w paczce.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/871/312/256/256/638288810018379517.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/framework",
+        "modrinth": "https://modrinth.com/mods?q=framework"
+      },
+      "isCommunity": false
     },
     {
       "id": 557076,
@@ -2505,7 +3583,18 @@
       "fileDate": "2024-07-27T21:08:01.377Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "survival",
+      "desc": "Narzędzie ułatwiające rozgrywkę, nawigację, dostosowywanie sterowania lub komunikację.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/1767/269/256/256/639123192888416847.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/free-cam",
+        "modrinth": "https://modrinth.com/mods?q=freecam"
+      },
+      "isCommunity": false
     },
     {
       "id": 602059,
@@ -2528,7 +3617,18 @@
       "fileDate": "2026-10-26T10:36:38.483Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "survival",
+      "desc": "Modyfikacja 'Friends&Foes (Forge/NeoForge)' wzbogacająca rozgrywkę na serwerze.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/1341/726/256/256/638872149406466393.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/friends-and-foes-forge",
+        "modrinth": "https://modrinth.com/mods?q=friendsandfoes"
+      },
+      "isCommunity": false
     },
     {
       "id": 391656,
@@ -2553,7 +3653,18 @@
       "fileDate": "2026-10-13T00:23:50.093Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "survival",
+      "desc": "Narzędzie ułatwiające rozgrywkę, nawigację, dostosowywanie sterowania lub komunikację.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/281/553/256/256/637286013907127784.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/full-brightness-toggle",
+        "modrinth": "https://modrinth.com/mods?q=fullbrightnesstoggle"
+      },
+      "isCommunity": false
     },
     {
       "id": 399025,
@@ -2578,7 +3689,18 @@
       "fileDate": "2026-10-09T07:35:30.81Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "survival",
+      "desc": "Narzędzie ułatwiające rozgrywkę, nawigację, dostosowywanie sterowania lub komunikację.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/2015/25/256/256/639236252354954577.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/reeves-furniture",
+        "modrinth": "https://modrinth.com/mods?q=furnitury"
+      },
+      "isCommunity": false
     },
     {
       "id": 854949,
@@ -2604,7 +3726,18 @@
       "fileDate": "2026-10-05T15:17:08.537Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "visuals",
+      "desc": "Paczka shaderów oferująca ulepszone oświetlenie, cienie, realistyczną wodę i efekty klimatyczne.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/835/860/256/256/638227854854712053.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/fusion-connected-textures",
+        "modrinth": "https://modrinth.com/mods?q=fusion"
+      },
+      "isCommunity": false
     },
     {
       "id": 1005914,
@@ -2627,7 +3760,18 @@
       "fileDate": "2026-10-25T20:13:21.353Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "engine",
+      "desc": "Niezbędna biblioteka systemowa / API wymagana do stabilnego działania modów w paczce.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/983/198/256/256/638491432276475239.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/fzzy-config",
+        "modrinth": "https://modrinth.com/mods?q=fzzy+config"
+      },
+      "isCommunity": false
     },
     {
       "id": 1367332,
@@ -2650,7 +3794,18 @@
       "fileDate": "2026-08-31T00:40:43.657Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "engine",
+      "desc": "Niezbędna biblioteka systemowa / API wymagana do stabilnego działania modów w paczce.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/2023/251/256/256/639239665414892695.jpg",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/gabous-libs",
+        "modrinth": "https://modrinth.com/mods?q=gaboulibs"
+      },
+      "isCommunity": false
     },
     {
       "id": 388172,
@@ -2673,7 +3828,18 @@
       "fileDate": "2026-09-16T07:34:13.327Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "engine",
+      "desc": "Niezbędna biblioteka systemowa / API wymagana do stabilnego działania modów w paczce.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/1081/393/256/256/638621132937140582.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/geckolib",
+        "modrinth": "https://modrinth.com/mods?q=geckolib"
+      },
+      "isCommunity": false
     },
     {
       "id": 955399,
@@ -2696,7 +3862,18 @@
       "fileDate": "2026-05-18T17:16:01.96Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "survival",
+      "desc": "Modyfikacja 'GlitchCore' wzbogacająca rozgrywkę na serwerze.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/925/423/256/256/638393995566142829.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/glitchcore",
+        "modrinth": "https://modrinth.com/mods?q=glitchcore"
+      },
+      "isCommunity": false
     },
     {
       "id": 1790221,
@@ -2721,7 +3898,18 @@
       "fileDate": "2026-11-11T01:17:40.793Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "survival",
+      "desc": "Modyfikacja kulinarno-rolnicza wprowadzająca nowe przepisy, uprawy lub potrawy z bonusami.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/2187/915/256/256/639297737033416587_animated.gif",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/hands-on-delight",
+        "modrinth": "https://modrinth.com/mods?q=handson+delight"
+      },
+      "isCommunity": false
     },
     {
       "id": 1763815,
@@ -2744,7 +3932,18 @@
       "fileDate": "2026-10-24T18:37:39.953Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "survival",
+      "desc": "Shader stylizowany na nagranie z taśmy analogowej (VHS) i kamery osobistej z ziarnem i mrocznym oświetleniem.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/2145/676/256/256/639284637795788639.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/shaders/horrorrealism-lite",
+        "modrinth": "https://modrinth.com/mods?q=horrorrealism+lite"
+      },
+      "isCommunity": false
     },
     {
       "id": 1040076,
@@ -2769,7 +3968,18 @@
       "fileDate": "2026-11-05T15:42:12.963Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "horror",
+      "desc": "Smoki latające po świecie (ogniste, lodowe, błyskawiczne), legowiska, syreny, gorgony, cyklopy i smocza zbroja.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/1129/550/256/256/638688106588576091.jpg",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/iceandfire-ce",
+        "modrinth": "https://modrinth.com/mods?q=iceandfire"
+      },
+      "isCommunity": false
     },
     {
       "id": 580681,
@@ -2794,7 +4004,18 @@
       "fileDate": "2026-05-12T07:38:45.36Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "combat",
+      "desc": "Bogaty zestaw klimatycznych zbroi (gladiator, berserk, ciężki pancerz, zbroje kościane) z unikalnymi bonusami.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/1989/323/256/256/639225429170606325.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/immersive-armors",
+        "modrinth": "https://modrinth.com/mods?q=immersive+armors"
+      },
+      "isCommunity": false
     },
     {
       "id": 904471,
@@ -2817,7 +4038,18 @@
       "fileDate": "2026-10-29T18:42:05.633Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "survival",
+      "desc": "Modyfikacja 'Immersive Melodies' wzbogacająca rozgrywkę na serwerze.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/867/344/256/256/638280636660476412.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/immersive-melodies",
+        "modrinth": "https://modrinth.com/mods?q=immersive+melodies"
+      },
+      "isCommunity": false
     },
     {
       "id": 1021685,
@@ -2840,7 +4072,18 @@
       "fileDate": "2025-08-14T17:38:44.613Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "survival",
+      "desc": "Modyfikacja 'Immersive UI' wzbogacająca rozgrywkę na serwerze.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/1004/48/256/256/638524944427495074_animated.gif",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/immersive-ui",
+        "modrinth": "https://modrinth.com/mods?q=immersiveui"
+      },
+      "isCommunity": false
     },
     {
       "id": 455508,
@@ -2866,7 +4109,18 @@
       "fileDate": "2026-06-13T15:58:55.503Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "visuals",
+      "desc": "Silnik obsługi nowoczesnych shaderów w pełni kompatybilny z Sodium.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/1002/450/256/256/638522657871453967.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/irisshaders",
+        "modrinth": "https://modrinth.com/mods?q=iris"
+      },
+      "isCommunity": false
     },
     {
       "id": 237664,
@@ -2891,7 +4145,18 @@
       "fileDate": "2025-09-26T05:20:46.78Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "tech",
+      "desc": "Wielopoziomowe piecyki (żelazne, złote, diamentowe, netherytowe) przyspieszające przetapianie.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/307/865/256/256/637389904761889621.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/iron-furnaces",
+        "modrinth": "https://modrinth.com/mods?q=ironfurnaces"
+      },
+      "isCommunity": false
     },
     {
       "id": 324717,
@@ -2916,7 +4181,18 @@
       "fileDate": "2026-08-06T23:11:53.513Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "survival",
+      "desc": "Wyświetla dokładną nazwę bloku, stan uprawy, zawartość skrzyni i energię maszyny, na którą patrzy gracz.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/207/323/256/256/636965628804677340.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/jade",
+        "modrinth": "https://modrinth.com/mods?q=jade"
+      },
+      "isCommunity": false
     },
     {
       "id": 623764,
@@ -2939,7 +4215,18 @@
       "fileDate": "2026-03-16T13:34:29.133Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "engine",
+      "desc": "Niezbędna biblioteka systemowa / API wymagana do stabilnego działania modów w paczce.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/964/489/256/256/638462824667803215.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/jamlib",
+        "modrinth": "https://modrinth.com/mods?q=jamlib"
+      },
+      "isCommunity": false
     },
     {
       "id": 32274,
@@ -2964,7 +4251,18 @@
       "fileDate": "2026-09-19T18:45:47.167Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "survival",
+      "desc": "Pełnoekranowa mapa świata oraz minimapa w rogu z zaznaczaniem waypointów, jaskiń i mobów w czasie rzeczywistym.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/9/144/256/256/635421614078544069.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/journeymap",
+        "modrinth": "https://modrinth.com/mods?q=journeymap"
+      },
+      "isCommunity": false
     },
     {
       "id": 525447,
@@ -2989,7 +4287,18 @@
       "fileDate": "2026-10-10T19:24:43.873Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "survival",
+      "desc": "Pełnoekranowa mapa świata oraz minimapa w rogu z zaznaczaniem waypointów, jaskiń i mobów w czasie rzeczywistym.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/431/167/256/256/637666162691913254.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/journeymap-integration",
+        "modrinth": "https://modrinth.com/mods?q=jmi"
+      },
+      "isCommunity": false
     },
     {
       "id": 1072905,
@@ -3012,7 +4321,18 @@
       "fileDate": "2026-03-10T12:59:30.053Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "survival",
+      "desc": "Modyfikacja 'Jupiter' wzbogacająca rozgrywkę na serwerze.",
+      "iconUrl": "https://media.forgecdn.net/avatars/1634/296/639046854286073372.webp",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/jupiter",
+        "modrinth": "https://modrinth.com/mods?q=jupiter"
+      },
+      "isCommunity": false
     },
     {
       "id": 238222,
@@ -3037,7 +4357,18 @@
       "fileDate": "2026-10-16T08:32:27.66Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "survival",
+      "desc": "Klasyczne JEI: lista wszystkich przedmiotów z boku ekranu i natychmiastowe sprawdzanie receptur pod R i U.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/29/69/256/256/635838945588716414.jpeg",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/jei",
+        "modrinth": "https://modrinth.com/mods?q=jei"
+      },
+      "isCommunity": false
     },
     {
       "id": 561885,
@@ -3062,7 +4393,18 @@
       "fileDate": "2026-10-25T18:44:16.823Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "survival",
+      "desc": "Płynne przybliżanie widoku (zoom) pod jednym klawiszem niczym w OptiFine.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/2090/110/256/256/639266641093537351.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/just-zoom",
+        "modrinth": "https://modrinth.com/mods?q=justzoom"
+      },
+      "isCommunity": false
     },
     {
       "id": 303657,
@@ -3085,7 +4427,18 @@
       "fileDate": "2026-07-13T05:36:43.727Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "survival",
+      "desc": "Modyfikacja 'Kiwi 🥝 (Neo/Forge)' wzbogacająca rozgrywkę na serwerze.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/775/790/256/256/638117430215424259.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/kiwi",
+        "modrinth": "https://modrinth.com/mods?q=kiwi"
+      },
+      "isCommunity": false
     },
     {
       "id": 410295,
@@ -3108,7 +4461,18 @@
       "fileDate": "2024-06-21T07:53:27.01Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "engine",
+      "desc": "Niezbędna biblioteka systemowa / API wymagana do stabilnego działania modów w paczce.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/1478/850/256/256/638961204478458770.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/konkrete",
+        "modrinth": "https://modrinth.com/mods?q=konkrete"
+      },
+      "isCommunity": false
     },
     {
       "id": 351264,
@@ -3131,7 +4495,18 @@
       "fileDate": "2026-06-28T16:33:45.223Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "engine",
+      "desc": "Niezbędna biblioteka systemowa / API wymagana do stabilnego działania modów w paczce.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/236/269/256/256/637091078382616109.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/kotlin-for-forge",
+        "modrinth": "https://modrinth.com/mods?q=kotlin+for+forge"
+      },
+      "isCommunity": false
     },
     {
       "id": 551586,
@@ -3156,7 +4531,18 @@
       "fileDate": "2026-09-20T13:44:42.94Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "horror",
+      "desc": "Jeden z najtrudniejszych modów na bossów: wielkie lochy (Leviathan, Netherite Monstrosity, Ignis) i animacje w stylu Dark Souls.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/460/870/256/256/637739722679428303.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/lendercataclysm",
+        "modrinth": "https://modrinth.com/mods?q=cataclysm"
+      },
+      "isCommunity": false
     },
     {
       "id": 1369936,
@@ -3182,7 +4568,18 @@
       "fileDate": "2026-11-04T11:41:33.36Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "visuals",
+      "desc": "Paczka shaderów oferująca ulepszone oświetlenie, cienie, realistyczną wodę i efekty klimatyczne.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/1487/872/256/256/638966827453935033.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/texture-packs/lantern-3d-better-lantern",
+        "modrinth": "https://modrinth.com/mods?q=lantern+3d+++better+lantern"
+      },
+      "isCommunity": false
     },
     {
       "id": 1001614,
@@ -3205,7 +4602,18 @@
       "fileDate": "2026-06-30T09:51:34.53Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "engine",
+      "desc": "Niezbędna biblioteka systemowa / API wymagana do stabilnego działania modów w paczce.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/978/896/256/256/638484152344379944.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/lionfish-api",
+        "modrinth": "https://modrinth.com/mods?q=lionfishapi"
+      },
+      "isCommunity": false
     },
     {
       "id": 360438,
@@ -3230,7 +4638,18 @@
       "fileDate": "2026-06-27T17:11:48.737Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "engine",
+      "desc": "Kompleksowa optymalizacja fizyki, ticków serwera, AI mobów i chunków bez zmian w rozgrywce.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/246/646/256/256/637158441743060329.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/lithium",
+        "modrinth": "https://modrinth.com/mods?q=lithium"
+      },
+      "isCommunity": false
     },
     {
       "id": 1773341,
@@ -3255,7 +4674,18 @@
       "fileDate": "2026-11-09T16:48:22.71Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "survival",
+      "desc": "Modyfikacja kulinarno-rolnicza wprowadzająca nowe przepisy, uprawy lub potrawy z bonusami.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/2186/619/256/256/639297486402612376.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/lunchtimes-little-cookbook",
+        "modrinth": "https://modrinth.com/mods?q=lunchtimecookbook"
+      },
+      "isCommunity": false
     },
     {
       "id": 930232,
@@ -3278,7 +4708,18 @@
       "fileDate": "2025-12-07T14:03:43.947Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "survival",
+      "desc": "Modyfikacja 'Macaw's Holidays' wzbogacająca rozgrywkę na serwerze.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/922/691/256/256/638388433298976722.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/macaws-holidays",
+        "modrinth": "https://modrinth.com/mods?q=mcwholidays"
+      },
+      "isCommunity": false
     },
     {
       "id": 431203,
@@ -3304,7 +4745,18 @@
       "fileDate": "2026-01-11T21:42:56.043Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "visuals",
+      "desc": "Paczka shaderów oferująca ulepszone oświetlenie, cienie, realistyczną wodę i efekty klimatyczne.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/1044/516/256/256/638572074817465930.webp",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/shaders/makeup-ultra-fast-shader",
+        "modrinth": "https://modrinth.com/mods?q=makeup+++ultra+fast+++shaders"
+      },
+      "isCommunity": false
     },
     {
       "id": 478559,
@@ -3329,7 +4781,18 @@
       "fileDate": "2025-09-02T19:00:50.61Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "survival",
+      "desc": "Narzędzie ułatwiające rozgrywkę, nawigację, dostosowywanie sterowania lub komunikację.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/378/106/256/256/637556771129558482.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/measurements",
+        "modrinth": "https://modrinth.com/mods?q=measurements"
+      },
+      "isCommunity": false
     },
     {
       "id": 1689768,
@@ -3352,7 +4815,18 @@
       "fileDate": "2026-11-09T15:28:11.637Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "engine",
+      "desc": "Niezbędna biblioteka systemowa / API wymagana do stabilnego działania modów w paczce.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/2038/374/256/256/639246433191280078.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/mezzconfig",
+        "modrinth": "https://modrinth.com/mods?q=mezzconfig"
+      },
+      "isCommunity": false
     },
     {
       "id": 790626,
@@ -3377,7 +4851,18 @@
       "fileDate": "2026-10-24T13:23:07.663Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "engine",
+      "desc": "Zestaw poprawek naprawiający wycieki pamięci, przyspieszający ładowanie gry o ponad 50% i stabilizujący FPS.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/881/436/256/256/638311693460984164.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/modernfix",
+        "modrinth": "https://modrinth.com/mods?q=modernfix"
+      },
+      "isCommunity": false
     },
     {
       "id": 538392,
@@ -3400,7 +4885,18 @@
       "fileDate": "2026-10-31T14:08:53.527Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "survival",
+      "desc": "Modyfikacja 'Modonomicon' wzbogacająca rozgrywkę na serwerze.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/567/136/256/256/637927203949622768.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/modonomicon",
+        "modrinth": "https://modrinth.com/mods?q=modonomicon"
+      },
+      "isCommunity": false
     },
     {
       "id": 499980,
@@ -3423,7 +4919,18 @@
       "fileDate": "2026-11-09T00:29:26.39Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "engine",
+      "desc": "Niezbędna biblioteka systemowa / API wymagana do stabilnego działania modów w paczce.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/402/662/256/256/637610797055895331.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/selene",
+        "modrinth": "https://modrinth.com/mods?q=moonlight"
+      },
+      "isCommunity": false
     },
     {
       "id": 1269280,
@@ -3448,7 +4955,18 @@
       "fileDate": "2026-08-19T16:59:26.477Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "horror",
+      "desc": "Unikalne relikwie i talizmany z poziomami doświadczenia i aktywnymi umiejętnościami.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/1280/540/256/256/638832754534089162_animated.gif",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/more-relics",
+        "modrinth": "https://modrinth.com/mods?q=morerelics"
+      },
+      "isCommunity": false
     },
     {
       "id": 60089,
@@ -3471,7 +4989,18 @@
       "fileDate": "2024-08-17T15:55:16.403Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "survival",
+      "desc": "Modyfikacja 'Mouse Tweaks' wzbogacająca rozgrywkę na serwerze.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/467/691/256/256/637749969243449870.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks",
+        "modrinth": "https://modrinth.com/mods?q=mousetweaks"
+      },
+      "isCommunity": false
     },
     {
       "id": 897116,
@@ -3496,7 +5025,18 @@
       "fileDate": "2026-01-17T13:57:09.66Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "survival",
+      "desc": "Narzędzie ułatwiające rozgrywkę, nawigację, dostosowywanie sterowania lub komunikację.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/934/904/256/256/638411339753659456.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/refurbished-furniture",
+        "modrinth": "https://modrinth.com/mods?q=refurbished+furniture"
+      },
+      "isCommunity": false
     },
     {
       "id": 669659,
@@ -3519,7 +5059,18 @@
       "fileDate": "2026-09-28T22:13:27.653Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "engine",
+      "desc": "Niezbędna biblioteka systemowa / API wymagana do stabilnego działania modów w paczce.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/1004/55/256/256/638524951476571994.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/mru",
+        "modrinth": "https://modrinth.com/mods?q=mru"
+      },
+      "isCommunity": false
     },
     {
       "id": 849595,
@@ -3544,7 +5095,18 @@
       "fileDate": "2026-09-27T17:44:52.39Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "horror",
+      "desc": "Groźny pasożytniczy wirus infekujący moby, mutujący stworzenia w potworne istoty i skażający teren.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/868/943/256/256/638283735491695845_animated.gif",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/mutationcraft",
+        "modrinth": "https://modrinth.com/mods?q=mutationcraft"
+      },
+      "isCommunity": false
     },
     {
       "id": 634062,
@@ -3569,7 +5131,18 @@
       "fileDate": "2024-11-08T18:15:51.323Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "survival",
+      "desc": "Blokuje telemetrię i podpisywanie wiadomości kryptograficznych na czacie, chroniąc prywatność graczy.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/560/68/256/256/637910636688514454.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/no-chat-reports",
+        "modrinth": "https://modrinth.com/mods?q=nochatreports"
+      },
+      "isCommunity": false
     },
     {
       "id": 361026,
@@ -3594,7 +5167,18 @@
       "fileDate": "2026-11-11T06:59:52.137Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "horror",
+      "desc": "Rytuały okultystyczne, przywoływanie duchów i demonów, wymiarowy magazyn i automatyzacja wydobycia surowców.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/247/293/256/256/637162328727833986.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/occultism",
+        "modrinth": "https://modrinth.com/mods?q=occultism"
+      },
+      "isCommunity": false
     },
     {
       "id": 841262,
@@ -3619,7 +5203,18 @@
       "fileDate": "2026-04-17T13:39:47.233Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "survival",
+      "desc": "Modyfikacja kulinarno-rolnicza wprowadzająca nowe przepisy, uprawy lub potrawy z bonusami.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/793/744/256/256/638151779574318595.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/oceans-delight",
+        "modrinth": "https://modrinth.com/mods?q=oceansdelight"
+      },
+      "isCommunity": false
     },
     {
       "id": 1655478,
@@ -3644,7 +5239,18 @@
       "fileDate": "2026-09-27T11:46:38.367Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "tech",
+      "desc": "Kluczowy mod technologiczny: koła zębate, pasy transmisyjne, silniki parowe, pociągi, wiatraki i niesamowita kinetyczna automatyzacja.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/1988/168/256/256/639224966948175193.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/ocuwheel-oculus-flywheel-compat",
+        "modrinth": "https://modrinth.com/mods?q=ocuwheel"
+      },
+      "isCommunity": false
     },
     {
       "id": 1747393,
@@ -3667,7 +5273,18 @@
       "fileDate": "2026-10-18T01:30:31.58Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "world",
+      "desc": "Dynamiczny, realistyczny system pogody z wiatrem, burzami i zmiennymi warunkami atmosferycznymi.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/2122/222/256/256/639277105509596455.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/os-weather",
+        "modrinth": "https://modrinth.com/mods?q=osweather"
+      },
+      "isCommunity": false
     },
     {
       "id": 985426,
@@ -3690,7 +5307,18 @@
       "fileDate": "2026-02-05T19:48:19.79Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "survival",
+      "desc": "Modyfikacja 'Particle Core' wzbogacająca rozgrywkę na serwerze.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/960/885/256/256/638456871337447159.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/particle-core",
+        "modrinth": "https://modrinth.com/mods?q=particle+core"
+      },
+      "isCommunity": false
     },
     {
       "id": 306770,
@@ -3713,7 +5341,18 @@
       "fileDate": "2026-03-08T20:49:54.427Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "survival",
+      "desc": "Modyfikacja 'Patchouli' wzbogacająca rozgrywkę na serwerze.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/588/685/256/256/637958998949519797.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/patchouli",
+        "modrinth": "https://modrinth.com/mods?q=patchouli"
+      },
+      "isCommunity": false
     },
     {
       "id": 1312687,
@@ -3739,7 +5378,18 @@
       "fileDate": "2025-07-23T17:31:29.22Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "visuals",
+      "desc": "Paczka shaderów oferująca ulepszone oświetlenie, cienie, realistyczną wodę i efekty klimatyczne.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/1368/962/256/256/638888885987333684.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/shaders/photon-shader",
+        "modrinth": "https://modrinth.com/mods?q=photon+shader"
+      },
+      "isCommunity": false
     },
     {
       "id": 443900,
@@ -3764,7 +5414,18 @@
       "fileDate": "2026-07-01T11:51:28.007Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "tech",
+      "desc": "Proste i niezwykle wydajne rury do przesyłu przedmiotów, płynów, energii oraz gazów z zaawansowanymi filtrami.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/342/357/256/256/637486273248094570.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/pipez",
+        "modrinth": "https://modrinth.com/mods?q=pipez"
+      },
+      "isCommunity": false
     },
     {
       "id": 283644,
@@ -3787,7 +5448,18 @@
       "fileDate": "2026-10-13T02:09:51.347Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "engine",
+      "desc": "Niezbędna biblioteka systemowa / API wymagana do stabilnego działania modów w paczce.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/134/260/256/256/636490526725752670.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/placebo",
+        "modrinth": "https://modrinth.com/mods?q=placebo"
+      },
+      "isCommunity": false
     },
     {
       "id": 658587,
@@ -3810,7 +5482,18 @@
       "fileDate": "2025-12-28T21:00:20.25Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "survival",
+      "desc": "Modyfikacja 'playerAnimator' wzbogacająca rozgrywkę na serwerze.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/588/418/256/256/637958435315527412.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/playeranimator",
+        "modrinth": "https://modrinth.com/mods?q=playeranimator"
+      },
+      "isCommunity": false
     },
     {
       "id": 467280,
@@ -3836,7 +5519,18 @@
       "fileDate": "2023-06-13T11:41:41.433Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "visuals",
+      "desc": "Super-lekki shader stworzony ze z myślą o słabszych komputerach i laptopach.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/365/905/256/256/637532991067801700.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/shaders/potato-shaders",
+        "modrinth": "https://modrinth.com/mods?q=potato+shader"
+      },
+      "isCommunity": false
     },
     {
       "id": 1023259,
@@ -3859,7 +5553,18 @@
       "fileDate": "2025-09-04T03:19:33.637Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "survival",
+      "desc": "Modyfikacja 'Prickle' wzbogacająca rozgrywkę na serwerze.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/1064/161/256/256/638597208248046640.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/prickle",
+        "modrinth": "https://modrinth.com/mods?q=prickle"
+      },
+      "isCommunity": false
     },
     {
       "id": 1374153,
@@ -3884,7 +5589,18 @@
       "fileDate": "2026-11-10T05:40:26.253Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "combat",
+      "desc": "Dopracowane animacje pierwszoosobowe dla walki wręcz i ataków.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/1572/950/256/256/639019365462904105_animated.gif",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/punchy",
+        "modrinth": "https://modrinth.com/mods?q=punchy"
+      },
+      "isCommunity": false
     },
     {
       "id": 1748527,
@@ -3909,7 +5625,18 @@
       "fileDate": "2026-11-07T15:34:45.183Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "combat",
+      "desc": "Dopracowane animacje pierwszoosobowe dla walki wręcz i ataków.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/2123/842/256/256/639277662498014561_animated.gif",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/punchy-moves",
+        "modrinth": "https://modrinth.com/mods?q=punchy+moves"
+      },
+      "isCommunity": false
     },
     {
       "id": 1191845,
@@ -3932,7 +5659,18 @@
       "fileDate": "2025-02-02T07:04:31.317Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "survival",
+      "desc": "Modyfikacja 'Redirected' wzbogacająca rozgrywkę na serwerze.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/1169/700/256/256/638740760495846032.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/redirected",
+        "modrinth": "https://modrinth.com/mods?q=redirected"
+      },
+      "isCommunity": false
     },
     {
       "id": 511319,
@@ -3957,7 +5695,18 @@
       "fileDate": "2026-09-16T00:49:14.663Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "engine",
+      "desc": "Nowoczesny silnik renderujący chunks w OpenGL drastycznie podnoszący FPS i płynność grafiki.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/414/599/256/256/637636962431399112.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/reeses-sodium-options",
+        "modrinth": "https://modrinth.com/mods?q=reeses+sodium+options"
+      },
+      "isCommunity": false
     },
     {
       "id": 243076,
@@ -3982,7 +5731,18 @@
       "fileDate": "2026-06-07T16:15:30.91Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "survival",
+      "desc": "Zaawansowany system cyfrowego magazynowania i bezprzewodowego zarządzania przedmiotami (dyski, kable, autografting).",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/51/695/256/256/636106666531773282.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/refined-storage",
+        "modrinth": "https://modrinth.com/mods?q=refinedstorage"
+      },
+      "isCommunity": false
     },
     {
       "id": 445274,
@@ -4007,7 +5767,18 @@
       "fileDate": "2026-02-06T22:46:06.547Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "horror",
+      "desc": "Unikalne relikwie i talizmany z poziomami doświadczenia i aktywnymi umiejętnościami.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/1124/47/256/256/638680710071253437_animated.gif",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/relics-mod",
+        "modrinth": "https://modrinth.com/mods?q=relics"
+      },
+      "isCommunity": false
     },
     {
       "id": 714059,
@@ -4030,7 +5801,18 @@
       "fileDate": "2025-04-26T17:59:02.93Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "engine",
+      "desc": "Niezbędna biblioteka systemowa / API wymagana do stabilnego działania modów w paczce.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/653/207/256/256/638055943654285366.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/resourceful-config",
+        "modrinth": "https://modrinth.com/mods?q=resourcefulconfig"
+      },
+      "isCommunity": false
     },
     {
       "id": 570073,
@@ -4053,7 +5835,18 @@
       "fileDate": "2024-12-08T04:44:11.193Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "engine",
+      "desc": "Niezbędna biblioteka systemowa / API wymagana do stabilnego działania modów w paczce.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/595/433/256/256/637970304404281534.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/resourceful-lib",
+        "modrinth": "https://modrinth.com/mods?q=resourcefullib"
+      },
+      "isCommunity": false
     },
     {
       "id": 452834,
@@ -4078,7 +5871,18 @@
       "fileDate": "2026-01-22T20:46:05.973Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "survival",
+      "desc": "Zbieranie i automatyczne ponowne zasiewanie dojrzałych plonów jednym kliknięciem prawego przycisku myszy.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/827/189/256/256/638214128652935154.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/rightclickharvest",
+        "modrinth": "https://modrinth.com/mods?q=rightclickharvest"
+      },
+      "isCommunity": false
     },
     {
       "id": 1279407,
@@ -4101,7 +5905,18 @@
       "fileDate": "2026-02-07T05:45:34.217Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "engine",
+      "desc": "Niezbędna biblioteka systemowa / API wymagana do stabilnego działania modów w paczce.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/1300/796/256/256/638845530833208387.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/ritchies-projectile-library",
+        "modrinth": "https://modrinth.com/mods?q=ritchiesprojectilelib"
+      },
+      "isCommunity": false
     },
     {
       "id": 1553142,
@@ -4124,7 +5939,18 @@
       "fileDate": "2026-08-03T13:49:42.763Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "survival",
+      "desc": "Modyfikacja 'RTS building: Build From Above' wzbogacająca rozgrywkę na serwerze.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/1825/698/256/256/639152766533183192.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/rts-building-build-from-above",
+        "modrinth": "https://modrinth.com/mods?q=rtsbuilding"
+      },
+      "isCommunity": false
     },
     {
       "id": 1723724,
@@ -4149,7 +5975,18 @@
       "fileDate": "2026-11-04T01:49:16.847Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "combat",
+      "desc": "Implanty bojowe inspirowane Cyberpunkiem dające spowolnienie czasu (Sandevistan) i superszybkość.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/2087/999/256/256/639266074364045115.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/sandeviscraft-enhanced",
+        "modrinth": "https://modrinth.com/mods?q=sandevistan"
+      },
+      "isCommunity": false
     },
     {
       "id": 964817,
@@ -4174,7 +6011,18 @@
       "fileDate": "2026-11-03T13:09:11.52Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "survival",
+      "desc": "Narzędzie ułatwiające rozgrywkę, nawigację, dostosowywanie sterowania lub komunikację.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/936/946/256/256/638414707400791480.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/sawmill",
+        "modrinth": "https://modrinth.com/mods?q=sawmill"
+      },
+      "isCommunity": false
     },
     {
       "id": 858542,
@@ -4197,7 +6045,18 @@
       "fileDate": "2024-10-21T20:44:39.39Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "engine",
+      "desc": "Niezbędna biblioteka systemowa / API wymagana do stabilnego działania modów w paczce.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/814/175/256/256/638189233295197018.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/searchables",
+        "modrinth": "https://modrinth.com/mods?q=searchables"
+      },
+      "isCommunity": false
     },
     {
       "id": 291874,
@@ -4220,7 +6079,18 @@
       "fileDate": "2025-02-11T19:35:48.86Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "world",
+      "desc": "Cztery pory roku wpływające na temperaturę, opady śniegu, kolor liści i rozwój plonów rolniczych.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/881/200/256/256/638311173747555092.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/serene-seasons",
+        "modrinth": "https://modrinth.com/mods?q=sereneseasons"
+      },
+      "isCommunity": false
     },
     {
       "id": 1288843,
@@ -4243,7 +6113,18 @@
       "fileDate": "2026-11-08T20:53:41.663Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "world",
+      "desc": "Cztery pory roku wpływające na temperaturę, opady śniegu, kolor liści i rozwój plonów rolniczych.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/1399/321/256/256/638907054203148536.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/serene-seasons-plus",
+        "modrinth": "https://modrinth.com/mods?q=sereneseasonsplus"
+      },
+      "isCommunity": false
     },
     {
       "id": 916747,
@@ -4266,7 +6147,18 @@
       "fileDate": "2026-11-06T18:17:42Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "engine",
+      "desc": "Niezbędna biblioteka systemowa / API wymagana do stabilnego działania modów w paczce.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/1040/229/256/256/638566006631831950_animated.gif",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/shatterbyte-lib",
+        "modrinth": "https://modrinth.com/mods?q=octolib"
+      },
+      "isCommunity": false
     },
     {
       "id": 297039,
@@ -4289,7 +6181,18 @@
       "fileDate": "2026-05-15T20:21:57.943Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "survival",
+      "desc": "Elastyczny system tworzenia modułowych narzędzi, broni i pancerzy z dowolnych stopów i materiałów.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/358/170/256/256/637518570685595613.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/silent-gear",
+        "modrinth": "https://modrinth.com/mods?q=silentgear"
+      },
+      "isCommunity": false
     },
     {
       "id": 242998,
@@ -4312,7 +6215,18 @@
       "fileDate": "2026-04-16T15:37:38.237Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "engine",
+      "desc": "Niezbędna biblioteka systemowa / API wymagana do stabilnego działania modów w paczce.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/36/456/256/256/635939146862612249.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/silent-lib",
+        "modrinth": "https://modrinth.com/mods?q=silentlib"
+      },
+      "isCommunity": false
     },
     {
       "id": 334853,
@@ -4335,7 +6249,18 @@
       "fileDate": "2026-01-22T10:06:11.897Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "survival",
+      "desc": "Modyfikacja 'Simple Discord Rich Presence (Forge /  Fabric)' wzbogacająca rozgrywkę na serwerze.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/218/240/256/256/637010626881189622.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/simple-discord-rich-presence",
+        "modrinth": "https://modrinth.com/mods?q=sdrp"
+      },
+      "isCommunity": false
     },
     {
       "id": 622640,
@@ -4360,7 +6285,18 @@
       "fileDate": "2025-03-26T22:40:05.9Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "survival",
+      "desc": "Narzędzie ułatwiające rozgrywkę, nawigację, dostosowywanie sterowania lub komunikację.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/545/497/256/256/637878977103601821.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/simplefog",
+        "modrinth": "https://modrinth.com/mods?q=simplefog"
+      },
+      "isCommunity": false
     },
     {
       "id": 1466410,
@@ -4385,7 +6321,18 @@
       "fileDate": "2026-09-16T15:04:35.82Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "space",
+      "desc": "Eksploracja kosmosu: budowa rakiet, kombinezony tlenowe, bazy na Księżycu, Marsie, Wenus, Merkurym i w pasie asteroid.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/2014/941/256/256/639236226571630395.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/simple-structure-ad-astra",
+        "modrinth": "https://modrinth.com/mods?q=pv+ad+astra+structures"
+      },
+      "isCommunity": false
     },
     {
       "id": 416089,
@@ -4410,7 +6357,18 @@
       "fileDate": "2026-08-08T11:51:16.387Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "survival",
+      "desc": "Wbudowany czat głosowy z przestrzennym pozycjonowaniem dźwięku 3D (słyszysz graczy tam, gdzie stoją).",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/391/367/256/256/637584172062782791.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat",
+        "modrinth": "https://modrinth.com/mods?q=voicechat"
+      },
+      "isCommunity": false
     },
     {
       "id": 1658503,
@@ -4435,7 +6393,18 @@
       "fileDate": "2026-10-01T20:07:25.847Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "survival",
+      "desc": "Narzędzie ułatwiające rozgrywkę, nawigację, dostosowywanie sterowania lub komunikację.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/1992/515/256/256/639226722477758843.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/simple-voice-voice-changer",
+        "modrinth": "https://modrinth.com/mods?q=sv+voice+changer"
+      },
+      "isCommunity": false
     },
     {
       "id": 659887,
@@ -4460,7 +6429,18 @@
       "fileDate": "2026-08-27T11:50:02.057Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "combat",
+      "desc": "Unikalne bronie białe (glewie, miecze dwuręczne, rapier, szable, katany) z potężnymi atakami specjalnymi.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/611/576/256/256/637996129346404798_animated.gif",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/simply-swords",
+        "modrinth": "https://modrinth.com/mods?q=simplyswords"
+      },
+      "isCommunity": false
     },
     {
       "id": 1475755,
@@ -4483,7 +6463,18 @@
       "fileDate": "2026-08-23T14:12:11.887Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "survival",
+      "desc": "Modyfikacja 'Simply Tooltips' wzbogacająca rozgrywkę na serwerze.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/1701/277/256/256/639080402139087558_animated.gif",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/simply-tooltips",
+        "modrinth": "https://modrinth.com/mods?q=simplytooltips"
+      },
+      "isCommunity": false
     },
     {
       "id": 890127,
@@ -4506,7 +6497,18 @@
       "fileDate": "2026-08-15T12:43:57.387Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "horror",
+      "desc": "Niezbędna biblioteka systemowa / API wymagana do stabilnego działania modów w paczce.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/850/655/256/256/638252277608029851.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/sinytra-connector",
+        "modrinth": "https://modrinth.com/mods?q=sinytra+connector"
+      },
+      "isCommunity": false
     },
     {
       "id": 521480,
@@ -4532,7 +6534,18 @@
       "fileDate": "2026-10-18T17:14:48.94Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "visuals",
+      "desc": "Paczka shaderów oferująca ulepszone oświetlenie, cienie, realistyczną wodę i efekty klimatyczne.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/426/742/256/256/637657627491599401.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d",
+        "modrinth": "https://modrinth.com/mods?q=skinlayers3d"
+      },
+      "isCommunity": false
     },
     {
       "id": 661293,
@@ -4555,7 +6568,18 @@
       "fileDate": "2025-10-01T20:24:48.653Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "engine",
+      "desc": "Niezbędna biblioteka systemowa / API wymagana do stabilnego działania modów w paczce.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/596/446/256/256/637972388178699939.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/smartbrainlib",
+        "modrinth": "https://modrinth.com/mods?q=smartbrainlib"
+      },
+      "isCommunity": false
     },
     {
       "id": 1109406,
@@ -4578,7 +6602,18 @@
       "fileDate": "2024-12-25T20:49:59.897Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "world",
+      "desc": "Wzbogaca świat Minecrafta o nowe biomy, unikalne rośliny, zjawiska pogodowe lub istoty.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/1086/785/256/256/638629061847904003.jpg",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/shaders/snow-default",
+        "modrinth": "https://modrinth.com/mods?q=snow+default"
+      },
+      "isCommunity": false
     },
     {
       "id": 1506353,
@@ -4603,7 +6638,18 @@
       "fileDate": "2026-04-20T18:29:21.44Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "horror",
+      "desc": "Cztery pory roku wpływające na temperaturę, opady śniegu, kolor liści i rozwój plonów rolniczych.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/1745/711/256/256/639110815760985696.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/snow-real-magic-serene-seasons",
+        "modrinth": "https://modrinth.com/mods?q=realmagic+x+seasons"
+      },
+      "isCommunity": false
     },
     {
       "id": 308663,
@@ -4628,7 +6674,18 @@
       "fileDate": "2026-09-27T09:53:45.387Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "horror",
+      "desc": "Ulepszona fizyka śniegu – śnieg gromadzi się warstwami i pokrywa ogrodzenia oraz rośliny.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/181/338/256/256/636799740021478717.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/snow-real-magic",
+        "modrinth": "https://modrinth.com/mods?q=snowrealmagic"
+      },
+      "isCommunity": false
     },
     {
       "id": 566142,
@@ -4651,7 +6708,18 @@
       "fileDate": "2026-11-03T02:40:14.32Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "world",
+      "desc": "Wzbogaca świat Minecrafta o nowe biomy, unikalne rośliny, zjawiska pogodowe lub istoty.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/488/371/256/256/637792657482121666.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/snowy-spirit",
+        "modrinth": "https://modrinth.com/mods?q=snowyspirit"
+      },
+      "isCommunity": false
     },
     {
       "id": 394468,
@@ -4676,7 +6744,18 @@
       "fileDate": "2026-08-28T20:54:55.687Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "engine",
+      "desc": "Nowoczesny silnik renderujący chunks w OpenGL drastycznie podnoszący FPS i płynność grafiki.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/284/773/256/256/637298471098686391.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/sodium",
+        "modrinth": "https://modrinth.com/mods?q=sodium"
+      },
+      "isCommunity": false
     },
     {
       "id": 551736,
@@ -4701,7 +6780,18 @@
       "fileDate": "2025-01-02T01:22:42.973Z",
       "isEnabled": false,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "engine",
+      "desc": "Nowoczesny silnik renderujący chunks w OpenGL drastycznie podnoszący FPS i płynność grafiki.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/1068/309/256/256/638602793082566240.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/dynamiclights-reforged",
+        "modrinth": "https://modrinth.com/mods?q=sodium+embeddium+dynamic+lights"
+      },
+      "isCommunity": false
     },
     {
       "id": 558905,
@@ -4726,7 +6816,18 @@
       "fileDate": "2025-04-07T04:44:42.343Z",
       "isEnabled": false,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "engine",
+      "desc": "Nowoczesny silnik renderujący chunks w OpenGL drastycznie podnoszący FPS i płynność grafiki.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/1066/735/256/256/638600914286319886.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/magnesium-extras",
+        "modrinth": "https://modrinth.com/mods?q=sodium+embeddium+extras"
+      },
+      "isCommunity": false
     },
     {
       "id": 678384,
@@ -4752,7 +6853,18 @@
       "fileDate": "2026-01-01T11:16:25.963Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "visuals",
+      "desc": "Imponujący shader z wolumetrycznymi promieniami światła, neonową poświatą i zorzami polarnymi.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/1449/904/256/256/638940605689918485.jpg",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/shaders/solas-shader",
+        "modrinth": "https://modrinth.com/mods?q=solas+shader"
+      },
+      "isCommunity": false
     },
     {
       "id": 538529,
@@ -4777,7 +6889,18 @@
       "fileDate": "2026-09-01T02:04:52.473Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "horror",
+      "desc": "Przerażające potwory uosabiające siedem grzechów głównych polujące na gracza w nocy.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/973/771/256/256/638476552817613930.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/sons-of-sins",
+        "modrinth": "https://modrinth.com/mods?q=sons+of+sins"
+      },
+      "isCommunity": false
     },
     {
       "id": 422301,
@@ -4802,7 +6925,18 @@
       "fileDate": "2026-11-09T10:50:49.58Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "survival",
+      "desc": "Najlepszy mod na plecaki: noszenie na plecach, ulepszenia (magnes, autosort, przetapianie, bateria) i wielkie pojemności.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/375/56/256/256/637549610342642859.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks",
+        "modrinth": "https://modrinth.com/mods?q=sophisticatedbackpacks"
+      },
+      "isCommunity": false
     },
     {
       "id": 618298,
@@ -4825,7 +6959,18 @@
       "fileDate": "2026-11-11T09:10:22.58Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "survival",
+      "desc": "Modyfikacja 'Sophisticated Core' wzbogacająca rozgrywkę na serwerze.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/540/438/256/256/637866039314801108.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/sophisticated-core",
+        "modrinth": "https://modrinth.com/mods?q=sophisticatedcore"
+      },
+      "isCommunity": false
     },
     {
       "id": 619320,
@@ -4850,7 +6995,18 @@
       "fileDate": "2026-11-11T09:09:46.547Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "survival",
+      "desc": "Ulepszane skrzynie, beczki i shulkery z filtrami, paskami pamięci, blokadami i integracją z Create.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/543/206/256/256/637872959580005837.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/sophisticated-storage",
+        "modrinth": "https://modrinth.com/mods?q=sophisticatedstorage"
+      },
+      "isCommunity": false
     },
     {
       "id": 1226755,
@@ -4875,7 +7031,18 @@
       "fileDate": "2026-10-12T22:40:57.533Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "tech",
+      "desc": "Kluczowy mod technologiczny: koła zębate, pasy transmisyjne, silniki parowe, pociągi, wiatraki i niesamowita kinetyczna automatyzacja.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/1208/888/256/256/638786233372453864.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/sophisticated-storage-create-integration",
+        "modrinth": "https://modrinth.com/mods?q=sophisticatedstoragecreateintegration"
+      },
+      "isCommunity": false
     },
     {
       "id": 535489,
@@ -4900,7 +7067,18 @@
       "fileDate": "2026-10-21T18:10:11.383Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "survival",
+      "desc": "Fizyczna akustyka dźwięku: realistyczne echo w jaskiniach, pogłos i tłumienie dźwięków za ścianami.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/442/531/256/256/637694502660771592.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered",
+        "modrinth": "https://modrinth.com/mods?q=sound+physics+remastered"
+      },
+      "isCommunity": false
     },
     {
       "id": 925889,
@@ -4925,7 +7103,18 @@
       "fileDate": "2025-12-12T18:32:50.433Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "survival",
+      "desc": "Narzędzie ułatwiające rozgrywkę, nawigację, dostosowywanie sterowania lub komunikację.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/1004/39/256/256/638524938814296759.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/sound",
+        "modrinth": "https://modrinth.com/mods?q=sounds"
+      },
+      "isCommunity": false
     },
     {
       "id": 361579,
@@ -4950,7 +7139,18 @@
       "fileDate": "2025-02-23T11:38:31.027Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "engine",
+      "desc": "Wbudowany profiler wydajności monitorujący użycie procesora, pamięci i ticki gry (komenda /spark).",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/495/151/256/256/637808085409071880.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/spark",
+        "modrinth": "https://modrinth.com/mods?q=spark"
+      },
+      "isCommunity": false
     },
     {
       "id": 277616,
@@ -4975,7 +7175,18 @@
       "fileDate": "2025-12-24T19:03:34.337Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "survival",
+      "desc": "Zachęca do urozmaicania diety: zjedzenie każdego nowego posiłku na stałe zwiększa maksymalną liczbę serduszek.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/360/935/256/256/637525655151502872.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/spice-of-life-carrot-edition",
+        "modrinth": "https://modrinth.com/mods?q=solcarrot"
+      },
+      "isCommunity": false
     },
     {
       "id": 921717,
@@ -4998,7 +7209,18 @@
       "fileDate": "2025-12-05T10:03:30.557Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "survival",
+      "desc": "Mroczna, halloweenowa wersja Complementary ze złowrogą mgłą, cieniami i klimatem grozy.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/887/782/256/256/638325491790729764.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/shaders/spooklementary",
+        "modrinth": "https://modrinth.com/mods?q=spooklementary"
+      },
+      "isCommunity": false
     },
     {
       "id": 1733952,
@@ -5023,7 +7245,18 @@
       "fileDate": "2026-10-28T07:20:16.953Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "space",
+      "desc": "Mod związany z lotami w kosmos i eksploracją ciał niebieskich.",
+      "iconUrl": "https://media.forgecdn.net/avatars/2177/6/639294901890281129.webp",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/starlit",
+        "modrinth": "https://modrinth.com/mods?q=starlit"
+      },
+      "isCommunity": false
     },
     {
       "id": 223852,
@@ -5048,7 +7281,18 @@
       "fileDate": "2025-09-14T09:40:03.98Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "survival",
+      "desc": "Szuflady do przechowywania ogromnych ilości pojedynczych surowców z czytelnym podglądem na przedniej ściance.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/10/842/256/256/635468327818431130.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/storage-drawers",
+        "modrinth": "https://modrinth.com/mods?q=storagedrawers"
+      },
+      "isCommunity": false
     },
     {
       "id": 344185,
@@ -5071,7 +7315,18 @@
       "fileDate": "2026-10-02T00:11:13.047Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "survival",
+      "desc": "Modyfikacja 'Superflat World No Slimes' wzbogacająca rozgrywkę na serwerze.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/228/418/256/256/637050183283095753.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/superflat-world-no-slimes",
+        "modrinth": "https://modrinth.com/mods?q=superflatworldnoslimes"
+      },
+      "isCommunity": false
     },
     {
       "id": 454372,
@@ -5094,7 +7349,18 @@
       "fileDate": "2026-11-05T01:29:05.98Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "engine",
+      "desc": "Niezbędna biblioteka systemowa / API wymagana do stabilnego działania modów w paczce.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/352/207/256/256/637507429195617557.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-core-lib",
+        "modrinth": "https://modrinth.com/mods?q=supermartijn642corelib"
+      },
+      "isCommunity": false
     },
     {
       "id": 412082,
@@ -5117,7 +7383,18 @@
       "fileDate": "2026-10-16T19:44:39.277Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "survival",
+      "desc": "Modyfikacja 'Supplementaries' wzbogacająca rozgrywkę na serwerze.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/358/166/256/256/637518566737953306_animated.gif",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/supplementaries",
+        "modrinth": "https://modrinth.com/mods?q=supplementaries"
+      },
+      "isCommunity": false
     },
     {
       "id": 1356005,
@@ -5142,7 +7419,18 @@
       "fileDate": "2026-11-07T20:58:54.847Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "combat",
+      "desc": "Dodatkowe uzbrojenie, celowniki, tłumiki, kolby i akcesoria do modyfikacji broni TaCZ.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/1460/557/256/256/638947884268353141.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/tacz-additions",
+        "modrinth": "https://modrinth.com/mods?q=taczadditions"
+      },
+      "isCommunity": false
     },
     {
       "id": 1238419,
@@ -5167,7 +7455,18 @@
       "fileDate": "2026-11-06T14:38:28.03Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "combat",
+      "desc": "Rozszerzenie uzbrojenia, pancerzy lub animacji walki podnoszące dynamikę starć.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/1218/317/256/256/638797219969986384.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/tacz-addon",
+        "modrinth": "https://modrinth.com/mods?q=taczaddon"
+      },
+      "isCommunity": false
     },
     {
       "id": 940057,
@@ -5190,7 +7489,18 @@
       "fileDate": "2025-01-05T04:27:14.547Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "survival",
+      "desc": "Modyfikacja 'TerraBlender (NeoForge)' wzbogacająca rozgrywkę na serwerze.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/907/934/256/256/638359485944942119.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/terrablender-neoforge",
+        "modrinth": "https://modrinth.com/mods?q=terrablender"
+      },
+      "isCommunity": false
     },
     {
       "id": 379849,
@@ -5213,7 +7523,18 @@
       "fileDate": "2026-04-02T16:08:15.57Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "world",
+      "desc": "Tajemniczy, podziemny wymiar wiecznego mroku, porośnięty grzybami, zamieszkały przez niezwykłe stworzenia i bossa.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/280/925/256/256/637283672869883111.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/the-undergarden",
+        "modrinth": "https://modrinth.com/mods?q=undergarden"
+      },
+      "isCommunity": false
     },
     {
       "id": 260262,
@@ -5238,7 +7559,18 @@
       "fileDate": "2026-06-24T00:43:33.827Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "survival",
+      "desc": "Wygodny pasek narzędziowy pozwalający na błyskawiczne przełączanie narzędzi i broni kołowym menu.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/88/400/256/256/636223857507356095.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/tool-belt",
+        "modrinth": "https://modrinth.com/mods?q=toolbelt"
+      },
+      "isCommunity": false
     },
     {
       "id": 531730,
@@ -5264,7 +7596,18 @@
       "fileDate": "2026-10-22T18:44:38.013Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "visuals",
+      "desc": "Paczka shaderów oferująca ulepszone oświetlenie, cienie, realistyczną wodę i efekty klimatyczne.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/815/318/256/256/638191378709038088.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/texture-packs/torches-reimagined",
+        "modrinth": "https://modrinth.com/mods?q=torches+reimagined"
+      },
+      "isCommunity": false
     },
     {
       "id": 1104882,
@@ -5287,7 +7630,18 @@
       "fileDate": "2025-05-15T21:54:10.04Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "engine",
+      "desc": "Niezbędna biblioteka systemowa / API wymagana do stabilnego działania modów w paczce.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/1170/525/256/256/638741611474710951.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/txnilib",
+        "modrinth": "https://modrinth.com/mods?q=txnilib"
+      },
+      "isCommunity": false
     },
     {
       "id": 1010827,
@@ -5310,7 +7664,18 @@
       "fileDate": "2026-08-06T09:42:15.1Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "survival",
+      "desc": "Modyfikacja 'Uranus' wzbogacająca rozgrywkę na serwerze.",
+      "iconUrl": "https://media.forgecdn.net/avatars/1640/733/639049163879705439.webp",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/uranus",
+        "modrinth": "https://modrinth.com/mods?q=uranus"
+      },
+      "isCommunity": false
     },
     {
       "id": 1757481,
@@ -5333,7 +7698,18 @@
       "fileDate": "2026-11-08T11:18:05.59Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "world",
+      "desc": "Wzbogaca świat Minecrafta o nowe biomy, unikalne rośliny, zjawiska pogodowe lub istoty.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/2136/745/256/256/639281718178037273.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/weather-glass",
+        "modrinth": "https://modrinth.com/mods?q=weatherglass"
+      },
+      "isCommunity": false
     },
     {
       "id": 1092594,
@@ -5356,7 +7732,18 @@
       "fileDate": "2025-04-22T17:44:42.4Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "survival",
+      "desc": "Modyfikacja 'Ycurrency' wzbogacająca rozgrywkę na serwerze.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/1069/720/256/256/638604730856354520.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/ycurrenci",
+        "modrinth": "https://modrinth.com/mods?q=ycurrenci"
+      },
+      "isCommunity": false
     },
     {
       "id": 667299,
@@ -5379,7 +7766,18 @@
       "fileDate": "2026-01-09T16:34:33.46Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "engine",
+      "desc": "Niezbędna biblioteka systemowa / API wymagana do stabilnego działania modów w paczce.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/598/727/256/256/637977258872864320.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/yacl",
+        "modrinth": "https://modrinth.com/mods?q=yet+another+config+lib+v3"
+      },
+      "isCommunity": false
     },
     {
       "id": 1635535,
@@ -5405,7 +7803,18 @@
       "fileDate": "2026-08-02T00:33:24.12Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "visuals",
+      "desc": "Horrorowy shader z podkręconym mrokiem, chłodnymi barwami i klimatem apokalipsy zombie.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/1958/198/256/256/639212275243510485.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/shaders/zombie-horror-shader",
+        "modrinth": "https://modrinth.com/mods?q=zombie+horror+shader"
+      },
+      "isCommunity": false
     },
     {
       "id": 500532,
@@ -5428,7 +7837,18 @@
       "fileDate": "2026-08-14T08:05:52.48Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "world",
+      "desc": "Kilkadziesiąt niesamowitych, animowanych zwierząt i stworzeń (niedźwiedzie grizzly, wieloryby, mrówki, komary, słonie).",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/402/419/256/256/637610158526630326.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/alexs-mobs-battle-music",
+        "modrinth": "https://modrinth.com/mods?q=alexs+mobs+extra+music"
+      },
+      "isCommunity": false
     },
     {
       "id": 618217,
@@ -5454,7 +7874,243 @@
       "fileDate": "2024-06-13T18:23:37.483Z",
       "isEnabled": true,
       "isFavorite": false,
-      "customLinks": []
+      "customLinks": [],
+      "addedBy": "Paczka podstawowa",
+      "addedAt": "2026-11-11",
+      "upvotes": 0,
+      "pillar": "visuals",
+      "desc": "Ekstremalny shader horrorowy: gęsta mgła, halucynacje i psychologiczny terror w nocy.",
+      "iconUrl": "https://media.forgecdn.net/avatars/thumbnails/793/487/256/256/638151403748357181.png",
+      "links": {
+        "curseforge": "https://www.curseforge.com/minecraft/shaders/insanity-shader",
+        "modrinth": "https://modrinth.com/mods?q=insanity+shader"
+      },
+      "isCommunity": false
     }
-  ]
+  ],
+  "announcements": [
+    {
+      "id": "ann-1",
+      "priority": "CRITICAL",
+      "title": "Protokół MYTHERIS 2.4 wdrożony pomyślnie",
+      "date": "2026-11-12",
+      "author": "Dowództwo Bazy",
+      "content": "Wszystkie 221 pakietów zostało zintegrowanych w spójny ekosystem NeoForge 21.1.265. Silnik zoptymalizowano pod kątem 120+ FPS przy zachowaniu pełnej symulacji balistyki i fizyki kinetycznej."
+    },
+    {
+      "id": "ann-2",
+      "priority": "UPDATE",
+      "title": "Zalecenia dotyczące alokacji pamięci RAM",
+      "date": "2026-11-10",
+      "author": "Sekcja Optymalizacji",
+      "content": "Zalecana alokacja dla graczy z shaderami grozy (Insanity/Dreadlight) wynosi 8192 MB (8 GB). Dla systemów ze słabszym GPU rekomendujemy profil 'Performance Pure' bez shaderów volumetric."
+    },
+    {
+      "id": "ann-3",
+      "priority": "COMMUNITY",
+      "title": "Otwarcie Rejestru Modyfikacji dla Graczy",
+      "date": "2026-11-08",
+      "author": "Administrator",
+      "content": "Każdy członek ekspedycji może zgłaszać propozycje nowych modów przez Curator Terminal. Wymagany jest kod autoryzacyjny oraz podpis ksywką."
+    }
+  ],
+  "serverInfo": {
+    "serverName": "MYTHERIS SMP",
+    "serverIp": "play.mytheris.gg",
+    "discordUrl": "https://discord.gg/",
+    "version": "Minecraft 1.21.1 • NeoForge 21.1.265",
+    "status": "Online",
+    "slots": "30 slotów"
+  },
+  "pillars": [
+    {
+      "id": "all",
+      "name": "Wszystkie Moduły",
+      "icon": "💠",
+      "desc": "Pełna zawartość bazy danych projektu MYTHERIS"
+    },
+    {
+      "id": "combat",
+      "name": "Warfare & Tactics",
+      "icon": "⚔️",
+      "desc": "Realistyczna broń palna TaCZ, pojazdy bojowe, wyważanie drzwi, pancerze i oręż"
+    },
+    {
+      "id": "tech",
+      "name": "Kinetics & Industry",
+      "icon": "⚙️",
+      "desc": "Kinetyczna automatyzacja Create, koleje, wielkie armaty, rury i cyfrowe magazyny"
+    },
+    {
+      "id": "space",
+      "name": "Void & Celestial Exodus",
+      "icon": "🚀",
+      "desc": "Eksploracja kosmosu Ad Astra, budowa rakiet, stacje orbitalne i obce planety"
+    },
+    {
+      "id": "horror",
+      "name": "Abyssal Horror & Bosses",
+      "icon": "💀",
+      "desc": "Bossowie Cataclysm, pasożytniczy wirus Mutationcraft, grzechy Sons of Sins i smoki"
+    },
+    {
+      "id": "world",
+      "name": "World & Dimensions",
+      "icon": "🌍",
+      "desc": "Biomy Biomes O' Plenty, wymiary The Undergarden i The Otherside, pory roku"
+    },
+    {
+      "id": "survival",
+      "name": "Survival & Gastronomy",
+      "icon": "🌾",
+      "desc": "Farmer's Delight, rybołówstwo Aquaculture 2, winiarstwo Vinery i plecaki"
+    },
+    {
+      "id": "engine",
+      "name": "Engine & Optimization",
+      "icon": "⚡",
+      "desc": "Architektura Sodium, FerriteCore, ModernFix i drastyczna redukcja zużycia RAM"
+    },
+    {
+      "id": "visuals",
+      "name": "Atmosphere & Shaders",
+      "icon": "🎨",
+      "desc": "Shadery grozy (Insanity, HorrorRealism, Dreadlight) oraz fotorealizm Bliss i BSL"
+    }
+  ],
+  "lore": {
+    "title": "Kroniki Projektu MYTHERIS: Zmierzch i Przetrwanie",
+    "synopsis": "Świat nie skończył się z hukiem – zamarł w ciszy, gdy pradawne wymiary pękły, a ziemska atmosfera uległa skażeniu nieznanym patogenem. Ocaleni musieli połączyć brutalną siłę prochu, parowe machiny i kosmiczną inżynierię, by wyrwać się z objęć umierającej Ziemi.",
+    "chapters": [
+      {
+        "num": "01",
+        "title": "Przełamanie Wymiarów (The Rift)",
+        "subtitle": "Kiedy podziemia przemówiły ludzkim głosem",
+        "text": "Wyprawy do najgłębszych ruin Starożytnych Miast (Ancient Cities) doprowadziły do przypadkowego naruszenia pieczęci. Ciemność z wymiaru The Otherside oraz bezdenne mroki The Undergarden wlały się na powierzchnię. Z mroku wyłoniły się istoty nieznające litości – pradawne monstra z Cataclysm oraz personifikacje ludzkiego upadku, Sons of Sins."
+      },
+      {
+        "num": "02",
+        "title": "Żelazo, Para i Proch (The Kinetic Age)",
+        "subtitle": "Odpowiedź ludzkości na horror nocy",
+        "text": "Gdy miecze okazały się bezużyteczne wobec hord zmutowanych istot, inżynierowie Syndicate stworzyli technologię kinetyczną Create oraz nowoczesną broń palną TaCZ. Powstały opancerzone pociągi pędzące przez skażone biomy, wielkie armaty polowe strzegące ostatnich enklaw oraz systemy rur transportujące oczyszczoną wodę i surowce."
+      },
+      {
+        "num": "03",
+        "title": "Projekt Ad Astra: Exodus w Pustkę",
+        "subtitle": "Ostatnia nadzieja na orbitach obcych ciał",
+        "text": "Zdając sobie sprawę, że Ziemia jest stracona, najtęższe umysły rozpoczęły budowę platform startowych. Rakiety programu Ad Astra przebiły zachmurzone niebo, niosąc ocalałych ku Księżycowi, Marsowi i asteroidom. W kosmosie jednak cisza bywa jeszcze bardziej złowroga niż ryk bestii na Ziemi."
+      },
+      {
+        "num": "04",
+        "title": "Twoja Misja w Świecie Mytheris",
+        "subtitle": "Przetrwanie, budowa i odkrycie prawdy",
+        "text": "Trafiasz na pogranicze ruin. Musisz zorganizować bazę, opanować zaawansowane rzemiosło kinetyczne, dobrać odpowiedni arsenał broni palnej i przygotować kombinezon kosmiczny. Uważaj na nocne anomalie i mrok za oknem."
+      }
+    ]
+  },
+  "lore_chapters": [
+    {
+      "id": "act-0",
+      "act": "PROLOG",
+      "year": "Rok 2140",
+      "title": "Zmierzch Złotej Ery i Pierwsze Pęknięcie",
+      "badge": "ARCHIVE / 001",
+      "faction": "Rada Dawnych Metropolii",
+      "desc": "Zanim świat spowiła wieczna mgła i skażenie, ludzkość osiągnęła szczyt rozwoju technologicznego. Megalopolisy zasilane czystą energią kinetyczną wydawały się niezniszczalne. Wszystko runęło w dniu 'Głębokiego Wiercenia', gdy w najgłębszych kopalniach natrafiono na Czarny Rdzeń — pradawny artefakt, który rozdarł barierę między wymiarami.",
+      "icon": "⏳"
+    },
+    {
+      "id": "act-1",
+      "act": "AKT I",
+      "year": "Rok 2165",
+      "title": "Kataklizm Skażenia & Zrodzeni z Grzechu",
+      "badge": "CORRUPTION / 002",
+      "faction": "Zakon Przeklętych & Pasożyty",
+      "desc": "Z otwartych szczelin w Undergarden i Otchłani wylała się biomasa Mutationcraft. Fauna i flora uległy potwornym mutacjom. Dawni władcy przekształcili się w koszmary Cataclysm — gigantyczne byty lewiatana i płonących tytanów. Zwykłe miecze i łuki stały się bezużyteczne wobec pancerzy skażonych bestii.",
+      "icon": "💀"
+    },
+    {
+      "id": "act-2",
+      "act": "AKT II",
+      "year": "Rok 2182",
+      "title": "Pakt Żelaza & Narodziny Bastionów Create",
+      "badge": "INDUSTRY / 003",
+      "faction": "Kolektyw Inżynierów i Zbrojownia TaCZ",
+      "desc": "Ocaleni inżynierowie zjednoczyli siły. Odrzucając dawną magię, stworzyli Pakt Żelaza: potężne zautomatyzowane fabryki napędzane obrotami kół wodnych, silników wiatrowych i kotłów parowych. Wprowadzono standaryzowaną broń palną TaCZ oraz wielkie działa oblężnicze Big Cannons. Zbudowano pierwsze bezpieczne enklawy otoczone drutem i wieżyczkami.",
+      "icon": "⚙️"
+    },
+    {
+      "id": "act-3",
+      "act": "AKT III",
+      "year": "Rok 2210+",
+      "title": "Projekt Exodus: Podbój Głębokiej Próżni",
+      "badge": "ORBITAL / 004",
+      "faction": "Korpus Eksploracji Orbitalnej (Ad Astra)",
+      "desc": "Ziemia została uznana za strefę bezpowrotnie skażoną. W podziemnych silosach rozpoczęto budowę wielostopniowych rakiet klasy Ad Astra. Celem stał się Księżyc, Mars oraz stacje orbitalne poza zasięgiem mutacji. Każdy ocalały ma wybór: walczyć o resztki zasobów w ruinach, czy wyruszyć w nieznaną próżnię kosmosu.",
+      "icon": "🚀"
+    }
+  ],
+  "keybinds": [
+    {
+      "key": "M",
+      "action": "Menu modyfikacji broni (dodatki, celowniki, tłumiki)",
+      "mod": "TaCZ (Timeless and Classics Zero)"
+    },
+    {
+      "key": "R",
+      "action": "Przeładowanie magazynka / Odrzucenie pustego",
+      "mod": "TaCZ"
+    },
+    {
+      "key": "B",
+      "action": "Otwarcie podręcznego plecaka technologicznego",
+      "mod": "Sophisticated Backpacks"
+    },
+    {
+      "key": "W (przytrzymaj)",
+      "action": "Pondering — animowany samouczek 3D mechanizmów",
+      "mod": "Create"
+    },
+    {
+      "key": "V",
+      "action": "Czat głosowy przestrzenny (Proximity Voice Chat)",
+      "mod": "Simple Voice Chat"
+    },
+    {
+      "key": "J / M",
+      "action": "Otwarcie mapy taktycznej i punktów nawigacyjnych",
+      "mod": "JourneyMap / Xaero"
+    },
+    {
+      "key": "K",
+      "action": "Szybki dostęp do statystyk i ekwipunku Ad Astra",
+      "mod": "Ad Astra Space Suit"
+    },
+    {
+      "key": "O",
+      "action": "Wyszukiwarka receptur i przedmiotów w grze",
+      "mod": "JEI / EMI"
+    }
+  ],
+  "shader_presets": [
+    {
+      "name": "Insanity Shader (Silent Hill Edition)",
+      "tag": "Zalecany do Horrory & Survivalu",
+      "desc": "Gęsta mgła wolumetryczna, ziarnistość filmu, desaturacja kolorów i mrożące krew w żyłach noce. Perfekcyjny klimat zepsucia.",
+      "perf": "Średni narzut GPU (~15% FPS)"
+    },
+    {
+      "name": "HorrorRealism & Dreadlight",
+      "tag": "Maksymalny Realizm Strachu",
+      "desc": "Realistyczne źródła światła, latarki rzucające dynamiczne cienie, klaustrofobiczne jaskinie Cataclysm.",
+      "perf": "Niski/Średni narzut GPU (~10% FPS)"
+    },
+    {
+      "name": "Bliss Shaders / Complementary Reimagined",
+      "tag": "Eksploracja & Estetyka Świata",
+      "desc": "Czyste, filmowe oświetlenie, dynamiczne chmury 3D, piękne zachody słońca w biomach Biomes O' Plenty.",
+      "perf": "Wysoki narzut GPU (~25% FPS)"
+    }
+  ],
+  "discord_webhook_url": "https://discord.com/api/webhooks/1459898828533661728/sT3CIsys50Jd7hKyHYGXeUT9FQC5xx0pl2TuT5G6OZ6-V_hhj6iE2JviyxufamdAenVK"
 }
